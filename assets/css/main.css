@@ -8284,3 +8284,8 @@ img.mfp-img {
   background-color: #8a8a8a;
   color: #fafafa;
 }
+
+#conduct ul{
+    list-style-type: square;
+    margin-left: 20px;
+}
