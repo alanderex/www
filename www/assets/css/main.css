@@ -8285,7 +8285,7 @@ img.mfp-img {
   color: #fafafa;
 }
 
-#conduct ul{
+#conduct ul, #about ul{
     list-style-type: square;
     margin-left: 20px;
 }
