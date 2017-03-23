@@ -8158,7 +8158,7 @@ img.mfp-img {
     padding: 25px 0;
   }
 }
-.twitter-stream .twitter-icon {
+.twitter-stream .twitter-icon, #team .twitter-icon{
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -8176,7 +8176,7 @@ img.mfp-img {
   margin-bottom: 10px;
   background-color: #00a6e7;
 }
-.twitter-stream .twitter-icon i {
+.twitter-stream .twitter-icon i , #team .twitter-icon i{
   font-size: 20px;
   line-height: 40px;
   color: #36c3ff;
@@ -8312,4 +8312,8 @@ img.mfp-img {
 #conduct ul, #about ul{
     list-style-type: square;
     margin-left: 20px;
+}
+
+#team .profile{
+    text-align: center
 }
