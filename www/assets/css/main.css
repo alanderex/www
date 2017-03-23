@@ -7459,6 +7459,12 @@ img.mfp-img {
 .about {
   position: relative;
 }
+#about .logo{
+        height: 100%;
+    width: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
 .about .img-left {
   position: absolute;
   bottom: -150px;
