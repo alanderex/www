@@ -8320,6 +8320,17 @@ img.mfp-img {
     margin-left: 20px;
 }
 
+#sponsoring div.sponsor {
+    padding-top: 50px;
+}
+#sponsoring .sponsor img{
+    width: 100%;
+    max-height: 150px;
+}
+
+#sponsoring div.row h3 {
+    text-align: center;
+}
 #team .profile{
     text-align: center
 }
