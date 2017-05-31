@@ -3621,8 +3621,8 @@ img {
 /* Font-face Icons */
 @font-face {
   font-family: 'flexslider-icon';
-  src: url("http://pydata.berlin/assets/css/fonts/flexslider-icon.eot");
-  src: url("http://pydata.berlin/assets/css/fonts/flexslider-icon.eot?") format("embedded-opentype"), url("http://pydata.berlin/assets/css/fonts/flexslider-icon.woff") format("woff"), url("http://pydata.berlin/assets/css/fonts/flexslider-icon.ttf") format("truetype"), url("http://pydata.berlin/assets/css/fonts/flexslider-icon.svg") format("svg");
+  src: url("//pydata.berlin/assets/css/fonts/flexslider-icon.eot");
+  src: url("//pydata.berlin/assets/css/fonts/flexslider-icon.eot?") format("embedded-opentype"), url("//pydata.berlin/assets/css/fonts/flexslider-icon.woff") format("woff"), url("//pydata.berlin/assets/css/fonts/flexslider-icon.ttf") format("truetype"), url("//pydata.berlin/assets/css/fonts/flexslider-icon.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
