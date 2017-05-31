@@ -2376,8 +2376,8 @@ input[type="button"].btn-block {
 @font-face {
   font-family: 'Glyphicons Halflings';
 
-  src: url('http://pydata.berlin/assets/fonts/glyphicons-halflings-regular.eot');
-  src: url('http://pydata.berlin/assets/fonts/glyphicons-halflings-regular.eot?') format('embedded-opentype'), url('http://pydata.berlin/assets/fonts/glyphicons-halflings-regular.woff') format('woff'), url('http://pydata.berlin/assets/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('http://pydata.berlin/assets/fonts/glyphicons-halflings-regular.svg') format('svg');
+  src: url('//pydata.berlin/assets/fonts/glyphicons-halflings-regular.eot');
+  src: url('//pydata.berlin/assets/fonts/glyphicons-halflings-regular.eot?') format('embedded-opentype'), url('//pydata.berlin/assets/fonts/glyphicons-halflings-regular.woff') format('woff'), url('//pydata.berlin/assets/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('//pydata.berlin/assets/fonts/glyphicons-halflings-regular.svg') format('svg');
 }
 .glyphicon {
   position: relative;
