@@ -40,6 +40,14 @@
     <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
+<!-- place this in your head tag -->
+<script src='https://js.tito.io/v1' async></script>
+
+
+<!-- for basic styles include a link to our stylesheet. -->
+<!-- fancy something more adventurous? Copy it and roll your own! -->
+<link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
+
 </head>
 <body id="top" class="fullscreen-image-background">
 
@@ -62,9 +70,9 @@
         <nav class="navbar-collapse collapse" id="main-nav" role="navigation">
             <ul class="nav navbar-nav navbar-right">
                 <li class="active"><a href="index.html#top">HOME</a></li>
-                <li><a href="index.html#about">ABOUT</a></li>
+                <li><a href="index.html#tickets">TICKETS</a></li>
+                <li><a href="index.html#cfp">CALL FOR PROPOSALS</a></li>
                 <li><a href="index.html#twitter-stream">NEWS</a></li>
-                <li><a href="index.html#venue">VENUE</a></li>
                 <li><a href="index.html#conduct">CODE OF CONDUCT</a></li>
                 <li><a href="index.html#sponsoring">SPONSORING</a></li>
                 <li><a href="index.html#team">TEAM</a></li>
@@ -217,6 +225,36 @@
     </div>
     <!-- END ABOUT -->
 
+    <div id="tickets" class="section tickets">
+        <div class="container">
+            <div class="section-heading">
+                <h2>Tickets</h2>
+            </div>
+            <div class="section-content">
+            <!-- place this where you want the widget to appear -->
+            <div class="row">
+            <tito-widget event="pycon-de-2017/pycon-de-2017"></tito-widget>
+            </div>
+            </div>
+        </div>
+    </div>
+    <div id="cfp" class="section cfp">
+        <div class="container">
+            <div class="section-heading">
+                <h2>Call for Proposals</h2>
+            </div>
+            <div class="section-content">
+
+            <!-- place this where you want the widget to appear -->
+            <div class="row">
+
+                <p>We’re looking for proposals on every aspect of Python: programming from novice to advanced levels, applications and frameworks, or how you have been involved in introducing Python into your organization. PyConDE is a community conference and we are eager to hear about your experience.</p>
+                <p>There will be a PyData track at this year’s conference. Please submit your papers for the <a href="http://pydata.org">PyData</a> track through the PyConDE form.</p>
+                <h2><a href="https://www.papercall.io/pyconde2017">Submit your Proposal</a><h2>
+            </div>
+            </div>
+        </div>
+    </div>
     <!-- TWITTER STREAM -->
     <div id="twitter-stream" class="section twitter-stream">
         <div class="container">

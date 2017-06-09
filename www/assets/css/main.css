@@ -8337,3 +8337,17 @@ img.mfp-img {
 #team .profile{
     text-align: center
 }
+#tickets table{
+    margin: 0px auto;
+}
+
+#tickets th{
+    padding-left: 2em;
+}
+
+#tickets td{
+    padding-left: 2em;
+}
+#cfp h2{
+    text-align: center
+}
