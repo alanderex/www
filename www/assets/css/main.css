@@ -8354,3 +8354,15 @@ img.mfp-img {
 #karlsruhe p{
     text-align: left
 }
+
+#schedule p{
+}
+#schedule a.speaker{
+    font-size: 18px;
+}
+#schedule ol{
+    margin-left: 2em;
+}
+#schedule ul{
+    margin-left: 2em;
+}
