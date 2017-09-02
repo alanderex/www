@@ -34,10 +34,13 @@ data = list(map(enrich, data))
 data.sort(key=lambda entry: entry["title"])
 
 for d in data:
-    if d["slug"] == 'an-introduction-to-pymc3':
-        d["name"] = "Adrian Seyboldt"
-    elif d["slug"] == 'getting-scikit-learn-to-run-on-top-of-pandas':
-        d["name"] = "Ami Tavory"
+    if d['slug'] == 'an-introduction-to-pymc3':
+        d['name'] = 'Adrian Seyboldt'
+    elif d['slug'] == 'getting-scikit-learn-to-run-on-top-of-pandas':
+        d['name'] = 'Ami Tavory'
+    elif d['slug'] == 'metaclasses-when-to-use-and-when-not-to-use':
+        d['description'] = d['description'].replace("# Description", "")
+
 
 
 
