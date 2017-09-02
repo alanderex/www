@@ -5,12 +5,15 @@ title: Convolutional Methods for Text
 body:
 
 # Convolutional Methods for Text
-**Tal Perry**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/bedfec06d273b18121337e837bddbba6?s=500)
+**[Tal Perry]()**
+
 
 Hi,
 I'm Tal Perry. I'm currently a data scientist at Citi where I work on applying deep learning to the analysis of financial chats and emails. 
 I hold a B.Sc in mathematics from tel Aviv University, was CTO of Superfly (Alternative data for hedge funds) , founder of SmartScribe(Automated transcription) and Seventh Sigma (Algorithmic trading). I live in Berlin with my beloved partner, two dogs and a cat. 
-
+</div>
 ## Abstract
 
 *Tags:* nlp machine learning tensorflow

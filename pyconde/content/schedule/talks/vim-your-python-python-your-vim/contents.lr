@@ -5,10 +5,13 @@ title: Vim your Python, Python your Vim
 body:
 
 # Vim your Python, Python your Vim
-**Miroslav Šedivý**
+<div class="avatar">
+![](https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/16212/miro.jpg)
+**[Miroslav Šedivý]()**
+
 
 I'm bad at writing my bio. https://www.linkedin.com/in/šedivý/
-
+</div>
 ## Abstract
 
 *Tags:* ide neovim vim editor python

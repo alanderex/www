@@ -5,10 +5,13 @@ title: Build text classification models ( CBOW and Skip-gram) with FastText in p
 body:
 
 # Build text classification models ( CBOW and Skip-gram) with FastText in python
-**Kajal Puri**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/9289b08391643b55c0d09ac492bb06e1?s=500)
+**[Kajal Puri]()**
+
 
 Kajal Puri is working as a Data Scientist in India. She has been dabbling with numbers and statistical models since last one year through personal projects and industrial internships (All thanks to Startups!). She has trained models to make them understand human language (Natural Language Processing) and categorize objects (Computer Vision). When she is not reading about AI Apocalypse, she can be seen traveling to waterfalls and weird forests.
-
+</div>
 ## Abstract
 
 *Tags:* naturallanguageprocessing fasttext deeplearning data science skipgram wordvector python machinelearning facebook open source

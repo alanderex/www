@@ -5,12 +5,15 @@ title: A Summer of Foodsharing
 body:
 
 # A Summer of Foodsharing 
-**Ines Dorian Gütt**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/e725ad992d2fc548efac30b0236a93c0?s=500)
+**[Ines Dorian Gütt](https://railsgirlssummerofcode.org/blog/2017-07-13-print_hello_world)**
+
 
 As a teenager, I built some simple html-pages, but I never considered becoming a programmer. Instead, I studied museology and art history, worked as a designer and in marketing. However coding always comes back to me – in side projects, work etc.
 
 In 2016 I finally decided: It's time. I wanted to learn how to code! I spent many weekends with codecademy, visited meetups and met other beginners. That was great, but also a slow way of learning. So I decided to apply for the RailsGirls Summer of Code together with Marie. We will use this tree months to learn as much as possible and do PRs for our awesome open source project “Foodsharing and Foodsaving”.
-
+</div>
 ## Abstract
 
 *Tags:* django python railsgirls django python railsgirls

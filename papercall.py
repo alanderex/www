@@ -25,7 +25,7 @@ def slugify(text, delim=u'-'):
 
 def enrich(entry):
     entry["slug"] = slugify(entry["title"])
-    entry["tags_str"] = " ".join(entry["tags"]) 
+    entry["tags_str"] = " ".join(entry["tags"][:10]) 
     return entry
 
 data = json.load(open("submissions.json"))
@@ -41,10 +41,13 @@ title: {{title}}
 body:
 
 # {{title}}
-**{{name}}**
+<div class="avatar">
+![]({{avatar}})
+**[{{name}}]({{url}})**
+
 
 {{bio}}
-
+</div>
 ## Abstract
 {%if tags_str %}
 *Tags:* {{tags_str}}{%endif%}
@@ -81,7 +84,8 @@ tutorials = ['practical-data-cleaning-101',
             'metaclasses-when-to-use-and-when-not-to-use',
             'network-analysis-using-python',
             'topic-modelling-and-a-lot-more-with-nlp-framework-gensim',
-            'how-to-found-a-company'
+            'how-to-found-a-company',
+            'python-on-bare-metal-beginners-tutorial-with-micropython-on-the-pyboard'
             ]
 
 
@@ -109,10 +113,18 @@ def gen():
     for entry in filter(lambda entry: entry["slug"] not in tutorials, data):
         dump(entry, kind='talks')
 
+def bada():
+    for entry in data:
+        print(entry["slug"])
+        print(entry["name"])
+        print(entry["avatar"])
+        print()
+
 def main(args=None):
     if args is None:
         args = sys.argv
     gen() 
+    #bada() 
 
 if __name__ == "__main__":
     main()

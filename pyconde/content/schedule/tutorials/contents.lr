@@ -42,6 +42,12 @@ Politics,Maths,Biology,CS,Finance all of these subjects have one thing in common
 Sick of complaining about data wrangling? Unsure what libraries to even begin with? In this tutorial, we'll highlight some practical examples of data cleaning, using tools to dedupe records, perform string matching and preprocess data for machine learning. 
 
 
+# [Python on bare metal – Beginners tutorial with MicroPython on the pyboard](./python-on-bare-metal-beginners-tutorial-with-micropython-on-the-pyboard/)
+**Christine Spindler**
+
+MicroPython is a complete reimplementation of Python that runs on small devices like microcontrollers. In this hands-on workshop I'll show how easy it is to use MicroPython on a pyboard.
+
+
 # [Topic Modelling (and a lot more) with NLP framework Gensim](./topic-modelling-and-a-lot-more-with-nlp-framework-gensim/)
 **Bhargav Srinivasa Desikan**
 

@@ -5,7 +5,10 @@ title: The Mustache Movement
 body:
 
 # The Mustache Movement
-**Heidi Thorpe**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/c07fe88b962ad8fe2b97e0a918a23b19?s=500)
+**[Heidi Thorpe]()**
+
 
 Heidi graduated with Honors in Chemistry from the University of Leeds before taking up a position as an Industrial Chemist with ICI (ORICA). This led to a career in software development working in UK, Aus and USA. In 2000 she became an author by the publication by Addison Wesley of 
 Oracle8i tuning and administration: the essential reference
@@ -17,7 +20,7 @@ PyconAu 2016 and PyconHK 2016 is her  speaking experience
 https://www.youtube.com/watch?v=70JAm03IBFI
 
 
-
+</div>
 ## Abstract
 
 *Tags:* python machine learning torch scikit-learn numpy neural networks

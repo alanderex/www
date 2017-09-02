@@ -5,10 +5,13 @@ title: How efficient is your public transport network? A data-driven approach us
 body:
 
 # How efficient is your public transport network? A data-driven approach using Geopandas and GTFS
-**Pieter Mulder**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/d61a60680ec84c9512e08714563b9762?s=500)
+**[Pieter Mulder](http://www.door2door.io)**
+
 
 Pieter has been developing in Python for the last 4 years and has been working in the periphery  of software development and data analysis. Currently, Pieter is part of a team at door2door developing a data analytics tool to help cities get insights into the performance of their public transport system support them in the decision-making of how to improve it.
-
+</div>
 ## Abstract
 
 *Tags:* etl web use-case gis analytics python

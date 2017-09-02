@@ -5,10 +5,13 @@ title: Plugin ecosystems for Python web-applications
 body:
 
 # Plugin ecosystems for Python web-applications
-**Raphael Michel**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/4b0c73635c56fd81ec9232120b74ae06?s=500)
+**[Raphael Michel](https://www.raphaelmichel.de)**
+
 
 I‘m a software developer working with the web for more than ten years and with Python and Django for over four years. I work as a freelancer and maintain multiple open source projects. The most notable Django-based one is pretix, a full-featured and free conference ticketing software. 
-
+</div>
 ## Abstract
 
 *Tags:* django python web

@@ -5,13 +5,16 @@ title: PyGenSA: An Efficient Global Optimization for Generalized Simulated Annea
 body:
 
 # PyGenSA: An Efficient Global Optimization for Generalized Simulated Annealing
-**Stephane Cano**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/3a155415eb5059e0b7c4eb1b3495cd44?s=500)
+**[Stephane Cano](http://www.pmiscience.com)**
+
 
 I'm a Software Engineer with a scientific background (Chemistry), a strong passion for UNIX-like Operating Systems and OpenSource software.
 I studied chemistry for 4 years at the University of Neuchatel, then switched to Computer Science to obtain a Software Engineering degree (HES) from the Haute Ecole Arc of St-Imier in 2004.
 
 Since 2012, I'm responsible for developing and maintaining customized software solutions for the Biomedical Research department at Philip Morris International R&D in Neuchatel, Switzerland. My experience in various scientific areas allows me to work closely to the scientists and ensure that their requirements are translated into software that actually match their needs.
-
+</div>
 ## Abstract
 
 *Tags:* python analytics algorithm data-science mathematics

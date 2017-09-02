@@ -5,10 +5,13 @@ title: Flow is in the Air: Best Practices of Building Analytical Data Pipelines 
 body:
 
 # Flow is in the Air: Best Practices of Building Analytical Data Pipelines with Apache Airflow
-**Dominik Benz**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/5df1bc21032ba6f3ee62c97e56e0e5d7?s=500)
+**[Dominik Benz]()**
+
 
 Dominik Benz holds a PhD from the University of Kassel in the field of Data Mining on the Social Web. Since 2012 he is working as a Big Data Engineer at Inovex GmbH. In this time, he was involved in several projects concerned with establishing analytical data platforms in various companies. He is most experienced in tools around the Hadoop Ecosystem like Apache Hive and Spark, and has hands-on experience with productionizing analytical applications.
-
+</div>
 ## Abstract
 
 *Tags:* workflow data pipeline data-science analytics

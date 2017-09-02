@@ -5,10 +5,13 @@ title: Rasa: open source conversational AI to build next generation chatbots
 body:
 
 # Rasa: open source conversational AI to build next generation chatbots
-**Joey Faulkner**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/412ce0c006d734910e81f21ee9b267aa?s=500)
+**[Joey Faulkner](https://rasa.ai/)**
+
 
 I am a PhD student in machine learning/astronomy, and an AI researcher at Rasa. We make open source libraries for conversational AI.
-
+</div>
 ## Abstract
 
 *Tags:* python machine learning deep learning open source chatbot natural language ai business

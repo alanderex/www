@@ -5,10 +5,13 @@ title: Practical Data Cleaning 101
 body:
 
 # Practical Data Cleaning 101
-**Katharine Jarmul**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/1137d47933776e194e6c8444fa787298?s=500)
+**[Katharine Jarmul](http://kjamistan.com)**
+
 
 Katharine Jarmul is a Pythonista, data scientist and lover of Unix. Located in Berlin, Germany, she runs a data science consulting company Kjamistan. In her free time, she enjoys reading arXiv papers, organizing PyData Berlin and cooking spicy food.
-
+</div>
 ## Abstract
 
 *Tags:* data-wrangling data-extraction

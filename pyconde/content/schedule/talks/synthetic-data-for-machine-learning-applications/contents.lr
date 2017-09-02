@@ -5,10 +5,13 @@ title: Synthetic Data for Machine Learning Applications
 body:
 
 # Synthetic Data for Machine Learning Applications
-**Dr. Hendrik Niemeyer**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/dc00500a44fb5404e1d5947f2eaee1c3?s=500)
+**[Dr. Hendrik Niemeyer]()**
+
 
 Data Scientist working on predictive analytics with data from pipeline inspection measurements. 
-
+</div>
 ## Abstract
 
 *Tags:* data-science python machine learning ai

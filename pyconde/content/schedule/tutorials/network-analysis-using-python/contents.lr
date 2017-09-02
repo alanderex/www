@@ -5,10 +5,13 @@ title: Network Analysis using Python
 body:
 
 # Network Analysis using Python
-**Mridul Seth**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/2483e89c130bc72f4a35436aa1fc0221?s=500)
+**[Mridul Seth](http://mriduls.github.io)**
+
 
 I am currently a research intern at NAXYS, Belgium (student at BITS Pilani-Goa, India). I have worked as a student developer for NetworkX(PSF) and GraphSpace(NRNB) during Google Summer of Code 2015 and 2016 respectively and working as one of the org admins of NumFOCUS for GSoC 2017. I use python extensively for academic and hobby projects. I have given tutorials on Network Analysis using Python at EuroSciPy 2016, SciPy India 2015, PyCon US 2017 and will be   presenting at EuroSciPy 2017 and PyCon PL 2017 soon.
-
+</div>
 ## Abstract
 
 *Tags:* data modelling networkx python

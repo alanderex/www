@@ -5,10 +5,13 @@ title: Migrating existing codebases to using type annotations
 body:
 
 # Migrating existing codebases to using type annotations
-**Stephan Jaensch**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/d85dbd33f06c64e9cf8a2d97dd384385?s=500)
+**[Stephan Jaensch]()**
+
 
 I'm a backend developer and tech lead at Yelp, working on the core infrastructure of the Commerce group. I've worked and continue to work on our Business Owner App backend and am deeply involved in the service infrastructure at Yelp. My main focus area is inter-service development. I'm one of the maintainers of the Python stack for Swagger / OpenAPI (bravado etc). I also work on developer productivity, such as making integration and end-to-end testing faster and more reliable.
-
+</div>
 ## Abstract
 
 *Tags:* python

@@ -212,12 +212,6 @@ The PyGenSA python module has been developed for generalized simulated annealing
 The N Body Problem is a computationally complex problem that we use to predict how planets and galaxies – and everything in between – move through space. I'll show you some interesting ways to calculate it, and we'll have a look at what to do, should you find yourself in a space ship's pilot seat.
 
 
-# [Python on bare metal – Beginners tutorial with MicroPython on the pyboard](./python-on-bare-metal-beginners-tutorial-with-micropython-on-the-pyboard/)
-**Christine Spindler**
-
-MicroPython is a complete reimplementation of Python that runs on small devices like microcontrollers. In this hands-on workshop I'll show how easy it is to use MicroPython on a pyboard.
-
-
 # [Rasa: open source conversational AI to build next generation chatbots](./rasa-open-source-conversational-ai-to-build-next-generation-chatbots/)
 **Joey Faulkner**
 

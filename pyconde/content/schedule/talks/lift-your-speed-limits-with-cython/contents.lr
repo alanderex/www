@@ -5,10 +5,13 @@ title: Lift your Speed Limits with Cython
 body:
 
 # Lift your Speed Limits with Cython
-**Stefan Behnel**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/8b97b5aad24c30e4a1357b38cc39aeaa?s=500)
+**[Stefan Behnel](http://consulting.behnel.de)**
+
 
 Stefan has been using Python since the beginning of the century and is probably best known as core developer of [Cython](http://cython.org) and [lxml](http://lxml.de). He spends his time joyfully writing Python and Cython code and teaching people like you how to make the best out of these tools.
-
+</div>
 ## Abstract
 
 *Tags:* compilation optimisation cython performance

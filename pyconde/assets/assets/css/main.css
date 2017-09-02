@@ -8366,5 +8366,16 @@ img.mfp-img {
 .blog-content ul{
     margin-left: 2em;
 }
+.blog-content ol{
+    margin-left: 2em;
+}
 
 .pagebreak { page-break-before: always; }
+
+.avatar img{ 
+    max-width: 75px; 
+    max-height: 75px;
+    float: left;
+    margin-right:5px;
+    margin-bottom: 5px
+}

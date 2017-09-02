@@ -5,13 +5,16 @@ title: If Microservices weren't the answer then Design Patterns have the solutio
 body:
 
 # If Microservices weren't the answer then Design Patterns have the solution.
-**Ent**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/2cb7e6ecb7a5eebb24007391e9c38928?s=500)
+**[Ent]()**
 
 
 
+</div>
 ## Abstract
 
-*Tags:* Python web microservices design patterns Python web microservices design patterns Python web microservices design patterns Python web microservices design patterns Python web microservices design patterns
+*Tags:* Python web microservices design patterns Python web microservices design patterns Python web
 
 Microservices are the trend now. However, they are not always the right solution and in hindsight, some services should be merged/combined. What's the proper approach? Design Patterns have you covered! I feel this is quite a common problem we face and this talk will be insightful on how to solve it.
 

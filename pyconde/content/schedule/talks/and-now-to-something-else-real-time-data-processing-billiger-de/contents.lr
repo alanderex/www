@@ -5,10 +5,13 @@ title: And now to something ELSE: Real Time Data Processing @ billiger.de
 body:
 
 # And now to something ELSE: Real Time Data Processing @ billiger.de
-**Axel Arnold**
+<div class="avatar">
+![](https://secure.gravatar.com/avatar/b63a9ee039197754e500f538a63dab2a?s=500)
+**[Axel Arnold](https://company.billiger.de)**
+
 
 Having started as a computational physicist, developing GPU-accelerated based molecular dynamics software for 14 years, I developed a passion for Python as scripting frontend and powerful numeric analysis tool. And NumPy makes teaching numerical math to 3rd year physics students so much easier!  Eventually, I decided to make my living using Python and joined solute GmbH as Python developer. I still have a passion for high throughput systems, but now not only from developer's, but also the operations point of view.
-
+</div>
 ## Abstract
 
 *Tags:* use-case python business
