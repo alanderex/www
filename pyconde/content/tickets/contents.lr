@@ -3,6 +3,7 @@ _model: page
 title: Tickets
 ---
 body:
+
 <!-- MAIN CONTENT -->
 <div id="main-content" class="main-content">
 
@@ -22,14 +23,14 @@ body:
                 <h3>PyCon.DE Tickets</h3>
                 <ul>
                     <li>3 day conference pass</li>
-                    <li>access to 40&ndash;60 talks, tutorials and hands on sessions</li>
+                    <li>access to 54 <a href="../schedule/talks/">talks</a> and 7 <a href="../schedule/tutorials/">tutorials</a></li>
                     <li>catering for three days</li>
-                    <li>gift bag</li>
+                    <li>gift bag and T-Shirt</li>
                 </ul>
                </div>
               <div class="col-lg-4">
                 <h3>PyCon.DE Social Event</h3>
-                <p>We plan to organize a social event. But as not all sponsors have signed up, it's not finalized yet.</p>
+                <p><a href="../schedule/social-event/">social event</a> at Badisch Brauhaus.</p>
                </div>
               <div class="col-lg-4">
                 <h3 id="pycondesprint">PyCon.DE Sprint</h3>
