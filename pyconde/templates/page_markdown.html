@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+<!-- MAIN CONTENT -->
+<div id="main-content" class="main-content">
+
+    <div class="section">
+        <div class="container">
+            <div class="section-content">
+            <!-- place this where you want the widget to appear -->
+            <div class="row blog-content">
+                {{ this.body }}
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END MAIN CONTENT -->
+{% endblock %}

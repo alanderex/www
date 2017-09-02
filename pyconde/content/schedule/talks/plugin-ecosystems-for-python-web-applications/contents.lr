@@ -1,0 +1,22 @@
+_model: page_markdown
+---
+title: Plugin ecosystems for Python web-applications
+---
+body:
+
+# Plugin ecosystems for Python web-applications
+**Raphael Michel**
+
+I‘m a software developer working with the web for more than ten years and with Python and Django for over four years. I work as a freelancer and maintain multiple open source projects. The most notable Django-based one is pretix, a full-featured and free conference ticketing software. 
+
+## Abstract
+
+*Tags:* django python web
+
+The power of some popular web applications like WordPress comes from a flexible plugin system. This talk will show how to implement such plugin architectures for Python web applications including real-world examples. I'll give examples with Django, but the important bits aren't Django-specific.
+
+
+## Description
+It is probably common sense by now that modular architectures win over monolithic architectures in a number of ways. Django gives us reusable apps, but just because they are reusable doesn’t mean they automatically integrate nicely with each other and a Python programmer is still required to glue them together. In this talk I will show how to build a rich Django application that provides a well-defined plugin API. The API will allow plugins to seamlessly integrate with the main application. The talk will show various patterns around URL routing, Django‘s signal system and the use of setuptools to provide auto-detection of installed plugins. Installing a plugin should not be much more complicated than a simple `pip install`. 
+
+Django is only used as an example, most parts could be easily transferred to other web frameworks as well. The explained architecture has been in use for some years in the pretix open source project and made it possible to us to grow a rich plugin ecosystem.

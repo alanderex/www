@@ -1,0 +1,105 @@
+_model: page
+---
+title: Sponsoring
+---
+body:
+
+<!-- MAIN CONTENT -->
+<div id="main-content" class="main-content">
+
+    <!-- SPONSORING -->
+    <div id="sponsoring" class="section">
+        <div class="container">
+            <div class="section-heading">
+                <h2>SPONSORING</h2>
+                <!--<hr/>-->
+            </div>
+           <div class="section-content">
+
+            <p>For the first time the PyCon.DE comes to the Rhine-Neckar region.
+            Long overdue, since the region is one of the central software and IT
+            hubs in Germany. By becoming a sponsor, you will not only support
+            the large and growing Python community in the region, county and Europe;
+            you can also come to hire, meet and engage with Python developers and
+            enthusiasts at the conference. This conference is an excellent opportunity to present
+            your company, organization and products or services to a friendly and interested audience.</p>
+
+            <p>See our <a href="../files/pycon_de_2017_karlsruhe_sponsoring.pdf">Sponsoring Flyer</a> (<a href="../files/pycon_de_2017_karlsruhe_sponsoring_en.pdf">en</a>) for more information. If you are interested please contact
+                <a href="mailto:info@pycon.de">info@pycon.de </a>.
+            </p>
+            </div>
+            <div class="row">
+                <div class="col-md-4 sponsor">
+                  <p><a href="http://mercedes-benz.de"><img src="../files/mercedes-benz-logo.svg" alt="mercedes-benz" /></a></p>
+                  <h3>Gold Sponsor</h3>
+                </div>
+              <div class="col-md-4 sponsor">
+                  <p><a href="http://sap.de"><img src="../files/sap-logo.svg" alt="sap" /></a></p>
+                  <h3>Gold Sponsor</h3>
+              </div>
+              <div class="col-md-4 sponsor">
+                  <p><a href="http://billiger.de"><img src="../files/billiger-logo.svg" alt="billiger.de" /></a></p>
+                  <h3>Gold Sponsor</h3>
+              </div>
+            </div><!-- END ROW -->
+            <div class="row">
+              <div class="col-md-4 sponsor">
+                  <p><a href="http://rosen-group.com"><img src="../files/rosen-logo.jpg" alt="Rosen Group" /></a></p>
+                  <h3>Gold Sponsor</h3>
+              </div>
+              <div class="col-md-4 sponsor" >
+                  <p><a href="https://www.jetbrains.com"><img src="../files/jetbrains-logo.jpg" alt="jetbrains" /></a></p>
+                  <h3>Development Tools Sponsor</h3>
+              </div>
+                <div class="col-md-4 sponsor">
+                  <p><a href="http://yelp.de"><img src="../files/yelp-logo.png" alt="yelp.de" /></a></p>
+                  <h3>Social Event Sponsor</h3>
+              </div>
+            </div> <!-- END ROW -->
+            <div class="row">
+                <div class="col-md-4 sponsor">
+                  <p><a href="http://ypsilon.net"><img src="../files/ypsilon-net-logo.svg" alt="ypsilon.net" /></a></p>
+                  <h3>Silver Sponsor</h3>
+              </div>
+                <div class="col-md-4 sponsor">
+                  <p><a href="http://inovex.de"><img src="../files/inovex-logo.svg" alt="inovex.net" /></a></p>
+                  <h3>Data Science Meetup Sponsor</h3>
+              </div>
+                <div class="col-md-4 sponsor">
+                  <p><a href="http://www.europython-society.org"><img src="../files/europython-logo.png" alt="europython" /></a></p>
+                  <h3>Diversity Sponsor</h3>
+              </div>
+            </div> <!-- END ROW -->
+            <div class="row">
+              <div class="col-md-4 sponsor" >
+                  <p><a href="http://blue-yonder.com"><img src="../files/blue-yonder-logo.svg" alt="blue yonder" /></a></p>
+                  <h3>Community Sponsor</h3>
+              </div>
+              <div class="col-md-4 sponsor" >
+                  <p><a href="http://koenigsweg.com"><img src="../files/koenigsweg-logo.png" alt="koenigsweg" /></a></p>
+                  <h3>Community Sponsor</h3>
+              </div>
+              <div class="col-md-4 sponsor">
+                  <p><a href="http://karlsruhe.de"><img src="../files/karlsruhe-logo.jpg" alt="Karlsruhe" /></a></p>
+                  <h3>Partner</h3>
+              </div>
+            </div> <!-- END ROW -->
+            <div class="row">
+              <div class="col-md-4 sponsor">
+                  <p><a href="http://cyberforum.de"><img src="../files/cyberforum-logo.png" alt="cyberforum" /></a></p>
+                  <h3>Media Partner</h3>
+              </div>
+              <div class="col-md-4 sponsor">
+              </div>
+              <div class="col-md-4 sponsor">
+              </div>
+
+            </div> <!-- END ROW -->
+
+        </div>
+    </div>
+    <!-- END SPONSORING-->
+</div>
+
+
+

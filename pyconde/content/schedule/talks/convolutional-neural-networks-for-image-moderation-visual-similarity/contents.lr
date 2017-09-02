@@ -1,0 +1,20 @@
+_model: page_markdown
+---
+title: Convolutional Neural Networks for Image Moderation & Visual Similarity
+---
+body:
+
+# Convolutional Neural Networks for Image Moderation & Visual Similarity
+**Alex Conway**
+
+Alex is the founder & CTO of NumberBoost, a startup that builds deep learning applications. He previously worked as a quant for a hedge fund and as a data scientist for an e-commerce company. He has an honours degree in actuarial science and a MSc in statistics. He is one of the organizers of the Cape Town Deep Learning meet-up and has built numerous computer vision systems that run at scale in production predicting labels for millions of images per day.
+
+## Abstract
+
+*Tags:* business data-science use-case deep learning ai machine learning
+
+This talk is a crash course on convolutional neural networks and how to use them to solve 2 real-world applications at scale. The first is an image moderation system and the second is a visual similarity system where a user uploads an image of an item and the system returns visually similar items.
+
+
+## Description
+This talk is a crash course on convolutional neural networks and how to use them to solve 2 real-world applications at scale. The first is an image moderation system and the second is a visual similarity system where a user uploads an image of an item and the system returns visually similar items.

@@ -1,0 +1,24 @@
+_model: page_markdown
+---
+title: Practical Data Cleaning 101
+---
+body:
+
+# Practical Data Cleaning 101
+**Katharine Jarmul**
+
+Katharine Jarmul is a Pythonista, data scientist and lover of Unix. Located in Berlin, Germany, she runs a data science consulting company Kjamistan. In her free time, she enjoys reading arXiv papers, organizing PyData Berlin and cooking spicy food.
+
+## Abstract
+
+*Tags:* data-wrangling data-extraction
+
+Sick of complaining about data wrangling? Unsure what libraries to even begin with? In this tutorial, we'll highlight some practical examples of data cleaning, using tools to dedupe records, perform string matching and preprocess data for machine learning. 
+
+
+## Description
+This workshop features libraries, tools and strategies for data extraction and cleaning. You will be asked to run code and participate actively, so get ready to do some hands-on data wrangling. 
+
+Prerequisites: you should feel comfortable using Pandas and Jupyter Notebook. If you don't, you can still attend but there might be points where you are confused as to how to best follow along.
+
+Please fork or clone the workshop repository before the course and reach out with any issues: https://github.com/kjam/data-cleaning-101 We will only be going over the data-cleaning notebooks, but you are welcome to take a walk through validation at your leisure!

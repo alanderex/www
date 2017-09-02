@@ -1,0 +1,22 @@
+_model: page_markdown
+---
+title: Project Avatar - Telepresence robotics with Nao and Kinect
+---
+body:
+
+# Project Avatar - Telepresence robotics with Nao and Kinect
+**Thomas Reifenberger**
+
+Thomas Reifenberger works as an IT Consultant for the Munich based consulting company TNG Technology Consulting GmbH. Before joining the company in 2012 studied physics at the Technical University of Munich. Since then he worked for various customers in different sectors – with his technical focus areas being Java, Perl, Groovy & Python. Besides that he is involved in the company’s hardware hacking team, where he is mainly working with IoT projects. Besides other tasks, he is involved in deployment automation, Linux administration and networking for the team.
+
+## Abstract
+
+*Tags:* vr telepresence gesture control 3d cameras python robotics hardware iot
+
+Using humanoid robots, VR glasses and 3D cameras you can experience the world through the eyes of a robot and control it via gestures. We built a telepresence robotics system based on a Nao robot, an Oculus Rift and a Kinect One to realize an immersive "out-of-body experience" as in  "Avatar".
+
+
+## Description
+Using humanoid robots, virtual reality glasses and 3D camera sensors you can experience the world through the eyes of a robot and control it via gestures. The hardware hacking team of TNG Technology Consulting has built a telepresence robotics system based on a Nao robot, an Oculus Rift and a Kinect One. Using these components you can realize an immersive "out-of-body experience" - similar to that of the film "Avatar".
+
+This talk shows how easy it is to program the robot using Python. We will do this by some live coding examples. Following a live demonstration of the showcase we will guide you through the complete program flow of the telepresence system. The speakers will share some insights about the challenges they faced during its implementation. The history of telepresence robotics, current trends and examples for real world fields of application will also be focused.

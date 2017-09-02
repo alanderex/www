@@ -1,0 +1,63 @@
+_model: page
+---
+title: Schedule
+---
+body:
+
+<!-- MAIN CONTENT -->
+<div id="main-content" class="main-content">
+
+    <div class="section">
+        <div class="container">
+            <div class="section-heading">
+                <h2>Schedule</h2>
+                <!--<hr/>-->
+            </div>
+           <div class="section-content">
+            <div class="row">
+                <h3>Timeline</h3>
+<table class="table">
+    <tr>
+        <th>Date</th>
+        <th>Morning</th>
+        <th>Afternoon</th>
+        <th>Evening</th>
+    </tr>
+    <tr>
+        <td>25 Oct, Wednesday</td>
+        <td>Talks</td>
+        <td>Talks</td>
+        <td>Data Science Meetup</td>
+    </tr>
+    <tr>
+        <td>26 Oct, Thursday</td>
+        <td>Talks</td>
+        <td>Talks</td>
+        <td>Social Event</td>
+    </tr>
+    <tr>
+        <td>27 Oct, Friday</td>
+        <td>Talks</td>
+        <td>Talks</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>28 Oct, Saturday</td>
+        <td>Sprint</td>
+        <td>Sprint</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>29 Oct, Sunday</td>
+        <td>Sprint</td>
+        <td>Sprint</td>
+        <td></td>
+    </tr>
+</table>
+</div>
+
+           </div>
+        </div>
+    </div>
+</div>
+<!-- END MAIN CONTENT -->

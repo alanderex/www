@@ -1,0 +1,140 @@
+title: Welcome to pyconde!
+---
+body:
+
+
+<!-- HERO UNIT -->
+<div id="hero-unit" class="hero-unit">
+    <div class="hero-content text-center">
+        <!-- Hero text -->
+        <div id="slidecaption" class="slide-caption">
+            <div class="hero-text">
+                <h2 class="hero-heading">PyCon.DE 2017 &amp; PyData Karlsruhe</h2>
+                <h2 class="hero-heading">October 25&ndash;27</h2>
+                <p>
+                is the traditional meeting point for people who work and play with Python.
+                <br>
+                Hosted in Germany and held in the English language, the conference welcomes all Python professionals and enthusiasts whether near or far.
+                <br>
+                We hope you will join us this year to learn, share ideas and meet new friends.
+                </p>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- END HERO UNIT -->
+<!-- MAIN CONTENT -->
+<div id="main-content" class="main-content">
+<!-- ABOUT -->
+<div id="about" class="section about">
+    <div class="container">
+        <div class="section-heading">
+            <h2>ABOUT</h2>
+            <div class="row">
+                <div class="col-md-2">
+                    <img src="files/logo.png" class="logo">
+                </div>
+                <div class="col-lg-10">
+                <p>PyCon.DE is where Pythonistas in Germany can meet to
+                learn about new and upcoming Python libraries, tools,
+                software and data science. We welcome Python enthusiasts,
+                programmers and data scientists from around the world
+                to join us in Karlsruhe this year.</p>
+            </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+           <p> We expect up to 300 participants for PyCon.DE 2017 Karlsruhe.
+           The conference will last 3 days and include about 45 talks, tutorials
+           and hands on sessions.
+           Python is a programming language which has found application and
+           friends in many areas. Due to its popularity in science, Python
+           has experienced a meteoric rise in the data science community
+           over the past few years. At the conference, we expect a broad
+           and interesting mix of Pythonistas including roles such as:
+           </p>
+           <ul>
+               <li>Software Developer</li>
+               <li>Data Scientist</li>
+               <li>System Administrator</li>
+               <li>Academic Scientist</li>
+               <li>Technology Enthusiast</li>
+           </ul>
+        </div>
+        <div class="col-lg-6">
+           <p>PyCon.DE 2017 will be held at the <a href="#venue">Center for Art and
+               Media</a> in Karlsruhe. Karlsruhe as a city and a decisive IT region
+            in the south-west of Germany and the ZKM as a venue represent a
+            perfect match for the conference.</p>
+            <p>In Germany and across Europe, Karlsruhe occupies top positions in research,
+            technology and innovation. The region has a well-known reputation among universities
+            and research institutes. The <a href="http://kit.edu">Karlsruhe Institute of Technology</a> is a national
+            collaboration between the national research center Karlsruhe and the local university
+            and sets the standard worldwide for innovating technologies. In the city and region, approximately 3,600 IT
+            companies with more than 36,000 jobs exist and continue to grow and thrive. The industry is integrated
+            into the <a href="https://www.cyberforum.de">cyberforum</a> IT company network and is part of a "software cluster"
+            recognized and sponsored by the federal government.</p>
+            </p>
+        </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-10">
+                    <p>The conference will include a <a href="http://pydata.org">PyData</a> track:</p>
+                <blockquote>PyData brings together both users and developers of data analysis tools to share ideas and learn from each other. The goals are to provide data science enthusiasts, across various domains, a place to discuss how best to apply languages and tools to the challenges of data management, processing, analytics, and visualization. </blockquote>
+            </div>
+            <div class="col-md-2">
+               <a href="http://pydata.org"><img src="files/pydata-logo.png" class="logo"></a>
+            </div>
+        </div>
+
+            <hr/>
+        <div class="section-content">
+            <div class="row">
+                <div class="col-lg-4">
+                    <h3>Python Programming Language</h3>
+                    <p>
+                    <a href="https://python.org">Python</a> is a widely
+                    used high-level programming language for
+                    general-purpose programming, created by Guido van
+                    Rossum and first released in 1991. An interpreted
+                    language, Python has a design philosophy which
+                    emphasizes code readability (notably using whitespace
+                    indentation to delimit code blocks rather than curly
+                    braces or keywords), and a syntax which allows
+                    programmers to express concepts in fewer lines of code
+                    than possible in other languages.
+                    </p>
+                </div>
+                <div class="col-lg-4">
+                    <h3>Python Software Verband e.V.</h3>
+                    <p>
+                    The <a href="https://python-verband.org">Python Software Verband e.V.</a> represents the
+                    Interests of users of the open-source programming language Python in Germany,
+                    Austria and German-speaking Switzerland.
+                    </p>
+                </div>
+                <div class="col-lg-4">
+
+                    <h3>PyCon.DE previous editions</h3>
+
+              <p>The story of PyCon.DE goes back to 2011.</p>
+              <ul>
+                <li><a href="https://www.pymunich.com">PyConWeb 2017</a> in Munich</li>
+                <li><a href="http://www.pymunich.com/pyconde2016/">PyCon.DE 2016</a> in Munich</li>
+                <li><a href="https://ep2014.europython.eu/de/conference/satellite-events/pyconde/" target="_blank">PyCon.DE 2014</a> satellite at EuroPython 2014 in Berlin</li>
+                <li><a href="https://2013.de.pycon.org/" target="_blank">PyCon.DE 2013</a> in Cologne</li>
+                <li><a href="https://2012.de.pycon.org/" target="_blank">PyCon.DE 2012</a> in Leipzig</li>
+                <li><a href="https://2011.de.pycon.org/" target="_blank">PyCon.DE 2011</a> in Leipzig</li>
+              </ul>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END ABOUT -->
+</div>
+<!-- END MAIN CONTENT -->    
