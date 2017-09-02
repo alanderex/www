@@ -18,6 +18,10 @@ Build Static Site
     cd pyconde
     lektor build --output-path ../www
 
+Add Atom Plugin
+
+https://github.com/ajdavis/lektor-atom
+
 Build Talks and Tutorials (at first place the papercall submissions as
 submissions.json into the root folder), then call:
 
