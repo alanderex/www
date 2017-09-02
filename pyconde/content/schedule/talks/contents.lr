@@ -18,7 +18,7 @@ People talk a lot about diversity in tech. My team mate Marie and I have decided
 
 
 # [An introduction to PyMC3](./an-introduction-to-pymc3/)
-**adrian.seyboldt@gmail.com**
+**Adrian Seyboldt**
 
 PyMC3 allows you to build statistical models for a wide range of datasets, use those models to estimate underlying parameters, and compute the uncertainty about those parameters. In this talk I will try to give a gentle introduction to PyMC3, and help avoid common pitfalls for new users.
 
@@ -104,7 +104,7 @@ billiger.de is a German price comparison site. Search is handled by a heavily cu
 
 
 # [Getting Scikit-Learn To Run On Top Of Pandas](./getting-scikit-learn-to-run-on-top-of-pandas/)
-**atavory@gmail.com**
+**Ami Tavory**
 
 Scikit-Learn is built directly over numpy, Python's numerical array library. Pandas adds to numpy metadata and higher-level munging capabilities. This talk describes how to intelligently auto-wrap Scikit-Learn for creating a version that can leverage pandas's added features.
 

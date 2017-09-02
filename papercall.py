@@ -33,6 +33,14 @@ data = list(filter(lambda entry: entry["state"] == "accepted", data))
 data = list(map(enrich, data))
 data.sort(key=lambda entry: entry["title"])
 
+for d in data:
+    if d["slug"] == 'an-introduction-to-pymc3':
+        d["name"] = "Adrian Seyboldt"
+    elif d["slug"] == 'getting-scikit-learn-to-run-on-top-of-pandas':
+        d["name"] = "Ami Tavory"
+
+
+
 
 tpl = """_model: page_markdown
 ---
