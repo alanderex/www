@@ -43,7 +43,7 @@ body:
 # {{title}}
 <div class="avatar">
 ![]({{avatar}})
-**[{{name}}]({{url}})**
+**[{{name}}]({{url}})** {% if twitter %}([@{{twitter}}](http://twitter.com/{{twitter}})){% endif %}
 
 
 {{bio}}

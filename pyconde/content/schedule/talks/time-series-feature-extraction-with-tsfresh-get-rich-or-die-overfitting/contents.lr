@@ -7,7 +7,7 @@ body:
 # Time series feature extraction with tsfresh - “get rich or die overfitting”
 <div class="avatar">
 ![](https://secure.gravatar.com/avatar/e282192ddd3fe8fa2235bbd4cf426ab3?s=500)
-**[Nils Braun](https://nils-braun.github.io/)**
+**[Nils Braun](https://nils-braun.github.io/)** ([@_nilsbraun](http://twitter.com/_nilsbraun))
 
 
 Currently I am doing my PhD in Particle Physics - which mainly involves development of software in a large collaboration. I love working with Python and C++ to process large amounts of data. Of course it needs to be processed as quickly as possible. I am working on the core reconstruction algorithms for our experiment, which are steered and controlled using Python.

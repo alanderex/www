@@ -7,7 +7,7 @@ body:
 # From Java to Python: Migrating Search Functionality at billiger.de
 <div class="avatar">
 ![](https://secure.gravatar.com/avatar/47e7f9ee1276490126acb8e77cc23270?s=500)
-**[Patrick Schemitz]()**
+**[Patrick Schemitz]()** 
 
 
 Patrick is a Senior Scientist at solute GmbH. An avid Pythonista since 2003, his main responsibility is the billiger.de search functionality, which he (co-) wrote using first Lucene, later Solr and now SolrCloud. Besides that, he wrote the SVM-based offer categorization at billiger.de and has a keen interest in machine learning. Patrick holds a Ph.D. in particle physics from Karlsruhe university.
