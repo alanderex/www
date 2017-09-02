@@ -8366,3 +8366,5 @@ img.mfp-img {
 .blog-content ul{
     margin-left: 2em;
 }
+
+.pagebreak { page-break-before: always; }
