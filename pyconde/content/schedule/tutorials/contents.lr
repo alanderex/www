@@ -47,9 +47,3 @@ Sick of complaining about data wrangling? Unsure what libraries to even begin wi
 
 MicroPython is a complete reimplementation of Python that runs on small devices like microcontrollers. In this hands-on workshop I'll show how easy it is to use MicroPython on a pyboard.
 
-
-# [Topic Modelling (and a lot more) with NLP framework Gensim](./topic-modelling-and-a-lot-more-with-nlp-framework-gensim/)
-**Bhargav Srinivasa Desikan**
-
-This tutorial is going to guide you through the process of analysing your textual data through topic modelling - from finding your data, pre-processing, applying topic modelling algorithms - before moving on to more advanced textual analysis techniques. Text mining has never been so easy.
-
