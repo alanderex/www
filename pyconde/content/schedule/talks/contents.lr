@@ -266,6 +266,12 @@ I would like to give a simple introduction to GANs using existing python modules
 
 
 
+# [The Snake in the Tar Pit: Complex Systems with Python](./the-snake-in-the-tar-pit-complex-systems-with-python/)
+**Stephan Erb**
+
+The Zen of Python motivates us to build software that is easy to maintain and extend. In reality however, we often end up with systems that are quite the opposite: complex and hard to change. In this talk, we will have a look at why this happens and how we can try to prevent it.
+
+
 # [The eye of the Python, an eye tracking system. From zero to... what eye learned.](./the-eye-of-the-python-an-eye-tracking-system-from-zero-to-what-eye-learned/)
 **Samuel Muñoz Hidalgo | BEEVA**
 
@@ -286,6 +292,12 @@ In this talk, I will introduce the basics of sympy. Using a simple model system 
 Have you ever thought about developing a time series model to predict stock prices?
 Or do you consider log time series from the operation of cloud resources as being more compelling?
 In this case you really should consider using the time series feature extraction package tsfresh for your project.
+
+
+# [Turbodbc: Turbocharged database access for data scientists](./turbodbc-turbocharged-database-access-for-data-scientists/)
+**Michael König**
+
+Python's database API 2.0 is well suited for transactional database workflows, but not so much for column-heavy data science. This talk explains how the ODBC-based turbodbc database module extends this API with first-class, efficient support for familiar NumPy and Apache Arrow data structures.
 
 
 # [Veripeditus - The Free AR Game Framework for Everyone](./veripeditus-the-free-ar-game-framework-for-everyone/)
