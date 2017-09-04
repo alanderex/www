@@ -170,6 +170,13 @@ You have an existing codebase of tens or hundreds of thousands of lines of Pytho
 The challenge of data integration is real. The sheer amount of tools that exist to address this problem is proof that organizations struggle with it. This talk will discuss the inherent challenges of data integration, and show how it can be tackled using Python and Apache Airflow and Apache Spark.
 
 
+# [No Compromise: Use Ansible properly or stick to your scripts](./no-compromise-use-ansible-properly-or-stick-to-your-scripts/)
+**Bjoern Meier**
+
+What you do in Ansible should be clean an simple. What we did was not.
+So I will show what we did wrong but also what we have changed or still have to, to make our life easier again. But I will also show how we progressively utilize Ansible to deploy our Data Science infrastructure.
+
+
 # [Out-of-core Analytics Using Python](./out-of-core-analytics-using-python/)
 **Gopi Suvanam**
 
