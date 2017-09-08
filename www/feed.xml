@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">PyCon.DE 2017 &amp; PyData Karlsruhe</title>
-  <id>urn:uuid:53af2a09-01da-33dc-9af3-6578c6b0f005</id>
+  <id>urn:uuid:1773e5a3-2e42-3e7e-ae8c-ad06f526061a</id>
   <updated>2017-09-08T00:00:00Z</updated>
   <link href="http://de.pycon.org/" />
   <link href="http://de.pycon.org/feed.xml" rel="self" />
@@ -11,7 +11,7 @@
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
   <entry xml:base="http://de.pycon.org/blog/fin-aid/">
     <title type="text">Fin Aid</title>
-    <id>urn:uuid:028f35ef-e54b-33b5-a1d5-90f1712e6777</id>
+    <id>urn:uuid:815abb37-599d-3f3a-af90-2d82bec83c63</id>
     <updated>2017-09-08T00:00:00Z</updated>
     <link href="http://de.pycon.org/blog/fin-aid/" />
     <author>
@@ -38,7 +38,7 @@
 &lt;p&gt;Applicants will be notified by e-mail around &lt;em&gt;2017-10-10&lt;/em&gt;.&lt;/p&gt;
 &lt;h2&gt;Refund management&lt;/h2&gt;
 &lt;p&gt;Free ticket: The individual coupons will be generated for a free ticket.&lt;/p&gt;
-&lt;p&gt;Accommodation / Travel grant: All grants involving reimbursements will be reimbursed by cheque at the conference desk during the conference. You can cash the cheque at a local bank in Karlsruhe. Please email your receipts (invoice, plane/bus/train ticket or other approval email) to info@pycon.de and bring your passport or ID card, when requesting the reimbursement. Reimbursements before or after the conference, or via other means such as cash or money transfers, are not possible, sorry.&lt;/p&gt;
+&lt;p&gt;Accommodation / Travel grant: All grants involving reimbursements will be done by money transfer after the conference. Please email your receipts (invoice, plane/bus/train ticket or other approval email) to info@pycon.de and bring your passport or ID card, when requesting the reimbursement.&lt;/p&gt;
 &lt;p&gt;The financial aid grants will only be made available to registered attendees actually attending the conference. Transfers to other people are not possible.&lt;/p&gt;
 &lt;p&gt;If you find that you cannot attend the conference for some reason, please send an email to info@pycon.de informing us, so that we can allocate the funds to someone else.&lt;/p&gt;
 &lt;p&gt;Thank you.&lt;/p&gt;
@@ -47,7 +47,7 @@
   </entry>
   <entry xml:base="http://de.pycon.org/blog/data-science-meetup/">
     <title type="text">PyCon.DE Data Science Meetup</title>
-    <id>urn:uuid:d7c29040-7dca-3cf2-8c9d-8e30cd1e2724</id>
+    <id>urn:uuid:82be3d58-1559-3b17-9928-a8b5915a3bd5</id>
     <updated>2017-09-02T00:00:00Z</updated>
     <link href="http://de.pycon.org/blog/data-science-meetup/" />
     <author>
@@ -87,7 +87,7 @@ is the leading conference for recommender systems.&lt;/p&gt;
   </entry>
   <entry xml:base="http://de.pycon.org/blog/pycon-zkm-open-codes/">
     <title type="text">PyCon.DE @ ZKM Open Codes Exhibition</title>
-    <id>urn:uuid:0a8229c3-797e-35ed-a93c-76c05352da30</id>
+    <id>urn:uuid:aa03a500-bbb7-39c4-8f85-e7b5b93d6ee2</id>
     <updated>2017-09-01T00:00:00Z</updated>
     <link href="http://de.pycon.org/blog/pycon-zkm-open-codes/" />
     <author>
