@@ -5,12 +5,6 @@ title: Talks
 body:
 
 
-# [5 simple steps to create meaningful features from clickstream data (with Pandas)](./5-simple-steps-to-create-meaningful-features-from-clickstream-data-with-pandas/)
-**Shir Meir Lador**
-
-Predicting client financial behaviour is usually done by financial data sources - such as client financial history, bank and credit statements, etc. In this talk we will review a different type of data source for risk assessment - features engineered from clickstream data gathered by Mixpanel. 
-
-
 # [A Summer of Foodsharing ](./a-summer-of-foodsharing/)
 **Ines Dorian Gütt**
 
@@ -77,10 +71,20 @@ This presentation will benefit the audience as it brings forward the practical i
 AI and Machine Learning are taking over the world - but how do you actually start with understanding your data and predicting events? And what kind of "political" trouble could you run into? With examples from real projects, we try to give you a feeling for data science projects.
 
 
-# [Demystifying Deep Learning Frameworks : Generic Function Approximation using Tensorflow](./demystifying-deep-learning-frameworks-generic-function-approximation-using-tensorflow/)
-**Siddhartha Rai**
+# [Data internationalization in Django](./data-internationalization-in-django/)
+**Raphael Michel**
 
-This talk attempts to demystify some aspects of Deep Learning using Tensorflow, a popular deep learning framework. Under the hood, Tensorflow is essentially a way to approximate functions. We show how Tensorflow can be used as a generic function approximation tool, and some approaches to tune it. 
+Django comes with well-established batteries included for translating an application. However, once you want your users to generate multi-lingual site contents Django is no longer able to help you. This will be an overview of libraries implementing translatable model fields and their pros and cons.
+
+
+# [Delivering / Deployment applications by anaconda and conda-forge](./delivering-deployment-applications-by-anaconda-and-conda-forge/)
+**Reimar Bauer**
+
+With the Anaconda Python Environment installing Python applications were getting much easier on various platforms.
+
+The talk describes how to make your first anaconda package and what the advantages you have by becoming a conda-forge member.
+
+
 
 
 # [Empowered by Python - A success story](./empowered-by-python-a-success-story/)
@@ -128,12 +132,6 @@ Computer languages are a remarkable feat of human scientific engineering. In thi
 The presentation will explain how GeoPandas and other tools are used to analyse GTFS files to calculate the reachability of a public transport system.
 
 
-# [If Microservices weren't the answer then Design Patterns have the solution.](./if-microservices-weren-t-the-answer-then-design-patterns-have-the-solution/)
-**Ent**
-
-Microservices are the trend now. However, they are not always the right solution and in hindsight, some services should be merged/combined. What's the proper approach? Design Patterns have you covered! I feel this is quite a common problem we face and this talk will be insightful on how to solve it.
-
-
 # [Integrating Jupyter Notebooks into your Infrastructure](./integrating-jupyter-notebooks-into-your-infrastructure/)
 **Florian Rhiem**
 
@@ -156,6 +154,12 @@ For prescriptive analytics applications, data science teams need to design, buil
 **Stefan Behnel**
 
 Think you can benefit from making your Python application run faster? Then come along and learn how to tune your code with Cython.
+
+
+# [Master 2.5 GB of unstructured specification documents with ease](./master-2-5-gb-of-unstructured-specification-documents-with-ease/)
+**Dr. Andreas Schilling**
+
+How Do you kick start a project which is based on 2.5 GB files of unstructured specification documents? To answer this question, we present our lessons learned from developing a Python based knowledge management tool which provides a lightweight and intuitive browser frontend.
 
 
 # [Migrating existing codebases to using type annotations](./migrating-existing-codebases-to-using-type-annotations/)
@@ -219,6 +223,21 @@ The PyGenSA python module has been developed for generalized simulated annealing
 The N Body Problem is a computationally complex problem that we use to predict how planets and galaxies – and everything in between – move through space. I'll show you some interesting ways to calculate it, and we'll have a look at what to do, should you find yourself in a space ship's pilot seat.
 
 
+# [Python is Weird](./python-is-weird/)
+**Dave Halter**
+
+A lot of people think that Python is a really simple and straightforward language. Python hides a lot of peculiarities very well, but for the sake of this talk we will try to uncover them.
+
+Is `++4;` valid Python? And what does it do? Let me give you an introduction into tokenizers/parsers.
+
+
+
+# [Python with Apache OpenWhisk](./python-with-apache-openwhisk/)
+**Ansgar Schmidt**
+
+OpenWhisk is an opensource implementation of a so called serverless computing platform. At a live presentation I will show how to write an serverless application and how to deal with libraries and events. OpenWhisk is an open source alternative to AWS lambda or MS functions. 
+
+
 # [Rasa: open source conversational AI to build next generation chatbots](./rasa-open-source-conversational-ai-to-build-next-generation-chatbots/)
 **Joey Faulkner**
 
@@ -229,20 +248,6 @@ Soon you will primarily communicate with your computer through conversation. At 
 **David Dao**
 
 Modern neural networks have hundreds of layers! How can we train such deep networks? Simply stacking layers on top doesn't work! This talk introduces the deep learning library PyTorch by explaining the exciting math, cool ideas and simple code behind what makes really deep neural networks work.
-
-
-# [Simple Data Engineering in python 3.5+ with Bonobo](./simple-data-engineering-in-python-3-5-with-bonobo/)
-**Romain Dorgueil**
-
-Simple is better than complex, and that's True for data pipelines, too.
-
-Bonobo is a python 3.5+ tool used to write and monitor data pipelines.
-It’s plain, simple, modern, and atomic python.
-
-This talk is a practical encounter, from zero to a complete data pipeline.
-
-Spoiler : no «big data» here.
-
 
 
 # [Sport analysis with Python](./sport-analysis-with-python/)
@@ -305,12 +310,6 @@ In this case you really should consider using the time series feature extraction
 **Michael König**
 
 Python's database API 2.0 is well suited for transactional database workflows, but not so much for column-heavy data science. This talk explains how the ODBC-based turbodbc database module extends this API with first-class, efficient support for familiar NumPy and Apache Arrow data structures.
-
-
-# [Veripeditus - The Free AR Game Framework for Everyone](./veripeditus-the-free-ar-game-framework-for-everyone/)
-**Dominik George**
-
-Augmented Reality has taken off quite a bit as a game style in 2016, but creating such games with open tools used to be very difficult. Veripeditus is a free and open framework that brings AR game development to all experience levels, including the class room, based on nothing but plain Python.
 
 
 # [Vim your Python, Python your Vim](./vim-your-python-python-your-vim/)
