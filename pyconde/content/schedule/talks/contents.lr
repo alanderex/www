@@ -11,6 +11,12 @@ body:
 People talk a lot about diversity in tech. My team mate Marie and I have decided to give it a try and applied for a sponsored program this summer. Will it open us the doors to the world of software architecture, APIs and data processing?
 
 
+# [An Admin's Cornucopia - Python Is More Than Just A Better Bash](./an-admin-s-cornucopia-python-is-more-than-just-a-better-bash/)
+**Christian Theune**
+
+Python's versatility is known to admins - in this talk I'd like to show how it fits for many small and big challenges I meet regularly: from tiny scripts to large systems. Also, I'll show how using the languages' advanced and/or newer features makes scripts more compact and robust.
+
+
 # [An introduction to PyMC3](./an-introduction-to-pymc3/)
 **Adrian Seyboldt**
 
@@ -267,6 +273,16 @@ In this talk I will show how we use real and synthetic data to create successful
 **Yenny Cheung**
 
 Ever stumbled upon poorly-maintained codebases that suck away your productivity? Fear no more! This talk addresses how to identify code smell (from Brie to Bleu cheese) and go through examples to refactor code and APIs. You will learn the art of writing clean, maintainable and idiomatic Python code.
+
+
+# [The BorgBackup Project](./the-borgbackup-project/)
+**Thomas Waldmann**
+
+BorgBackup is a modern, deduplicating backup software written in Python 3.4+, Cython and C.
+
+The talk will start with a quick presentation about the software and why you may want to use it for your backups.
+
+Then, I will show how we run the software project: Tools, Services, Best Practices.
 
 
 # [The Mustache Movement](./the-mustache-movement/)
