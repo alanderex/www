@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Why Python Has Taken Over Finance
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Yves Hilpisch: Why Python Has Taken Over Finance" />
+<meta name="twitter:description" content="Not too long ago, the finance field was dominated by compiled languages, such as C or C++, since they were considered to be the right choice for the implementation of computationally demanding algorithms. This talk explains why Python has become No 1 in the field." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Why Python Has Taken Over Finance

@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Synthetic Data for Machine Learning Applications
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Dr. Hendrik Niemeyer: Synthetic Data for Machine Learning Applications" />
+<meta name="twitter:description" content="In this talk I will show how we use real and synthetic data to create successful models for risk assessing pipeline anomalies. The main focus is the estimation of the difference in the statistical properties of real and generated data by machine learning methods." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Synthetic Data for Machine Learning Applications

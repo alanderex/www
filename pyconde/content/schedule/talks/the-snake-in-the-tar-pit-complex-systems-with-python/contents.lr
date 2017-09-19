@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: The Snake in the Tar Pit: Complex Systems with Python
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Stephan Erb: The Snake in the Tar Pit: Complex Systems with Python" />
+<meta name="twitter:description" content="The Zen of Python motivates us to build software that is easy to maintain and extend. In reality however, we often end up with systems that are quite the opposite: complex and hard to change. In this talk, we will have a look at why this happens and how we can try to prevent it." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # The Snake in the Tar Pit: Complex Systems with Python

@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Modern ETL-ing with Python and Airflow (and Spark)
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Tamara Mendt: Modern ETL-ing with Python and Airflow (and Spark)" />
+<meta name="twitter:description" content="The challenge of data integration is real. The sheer amount of tools that exist to address this problem is proof that organizations struggle with it. This talk will discuss the inherent challenges of data integration, and show how it can be tackled using Python and Apache Airflow and Apache Spark." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Modern ETL-ing with Python and Airflow (and Spark)

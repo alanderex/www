@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Network Analysis using Python
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Mridul Seth: Network Analysis using Python" />
+<meta name="twitter:description" content="Politics,Maths,Biology,CS,Finance all of these subjects have one thing in common. They can be modelled using networks. NetworkX is a software package for the creation,study of the structure,dynamics,and functions of complex networks.We&#39;ll go through the NetworkX API and the basics of graph theory. " />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Network Analysis using Python

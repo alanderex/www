@@ -2,6 +2,17 @@ _model: page_markdown
 ---
 title: Python is Weird
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Dave Halter: Python is Weird" />
+<meta name="twitter:description" content="A lot of people think that Python is a really simple and straightforward language. Python hides a lot of peculiarities very well, but for the sake of this talk we will try to uncover them.
+
+Is `++4;` valid Python? And what does it do? Let me give you an introduction into tokenizers/parsers.
+" />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Python is Weird

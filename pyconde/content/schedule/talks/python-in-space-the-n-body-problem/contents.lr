@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Python in Space - The N Body Problem
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Daniel Jilg: Python in Space - The N Body Problem" />
+<meta name="twitter:description" content="The N Body Problem is a computationally complex problem that we use to predict how planets and galaxies – and everything in between – move through space. I&#39;ll show you some interesting ways to calculate it, and we&#39;ll have a look at what to do, should you find yourself in a space ship&#39;s pilot seat." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Python in Space - The N Body Problem

@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Convolutional Methods for Text
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Tal Perry: Convolutional Methods for Text" />
+<meta name="twitter:description" content="Everyone knows the adage &#34;Good, fast, cheap: Choose two&#34;. In this talk I&#39;ll show that with convolutions we don&#39;t have to make uncomfortable choices like that. Using convolutional neural networks we can get the same results 10x faster and with a fraction of the data. " />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Convolutional Methods for Text

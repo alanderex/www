@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Flow is in the Air: Best Practices of Building Analytical Data Pipelines with Apache Airflow
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Dominik Benz: Flow is in the Air: Best Practices of Building Analytical Data Pipelines with Apache Airflow" />
+<meta name="twitter:description" content="Apache Airflow is an Open-Source python project which facilitates an intuitive programmatic definition of analytical data pipelines. Based on 2+ years of productive experience, we summarize its core concepts, detail on lessons learned and set it in context with the Big Data Analytics Ecosystem." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Flow is in the Air: Best Practices of Building Analytical Data Pipelines with Apache Airflow

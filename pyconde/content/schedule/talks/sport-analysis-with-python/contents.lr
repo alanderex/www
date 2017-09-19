@@ -2,6 +2,15 @@ _model: page_markdown
 ---
 title: Sport analysis with Python
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Thuy Le: Sport analysis with Python" />
+<meta name="twitter:description" content="Sport analysis with Python and visualize data with tableau.
+We have sample data of a team in football match (name of players, positions of players, velocities of players) which are recorded in every 20 millisecond. We use python to analysis and Tableau to visualize  the activities of each player" />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Sport analysis with Python

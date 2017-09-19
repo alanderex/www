@@ -2,6 +2,16 @@ _model: page_markdown
 ---
 title: Time series feature extraction with tsfresh - “get rich or die overfitting”
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Nils Braun: Time series feature extraction with tsfresh - “get rich or die overfitting”" />
+<meta name="twitter:description" content="Have you ever thought about developing a time series model to predict stock prices?
+Or do you consider log time series from the operation of cloud resources as being more compelling?
+In this case you really should consider using the time series feature extraction package tsfresh for your project." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Time series feature extraction with tsfresh - “get rich or die overfitting”

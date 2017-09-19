@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Programming the Web of Things with Python and MicroPython
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Hardy Erlinger: Programming the Web of Things with Python and MicroPython" />
+<meta name="twitter:description" content="In this session you will get a gentle introduction to the ever-expanding world of small programmable devices: learn to use single board computers and  microcontrollers to connect to sensors and talk to APIs - all using Python or MicroPython, a subset of Python 3 for use in constrained environments." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Programming the Web of Things with Python and MicroPython

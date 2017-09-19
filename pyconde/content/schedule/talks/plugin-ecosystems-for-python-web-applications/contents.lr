@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Plugin ecosystems for Python web-applications
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Raphael Michel: Plugin ecosystems for Python web-applications" />
+<meta name="twitter:description" content="The power of some popular web applications like WordPress comes from a flexible plugin system. This talk will show how to implement such plugin architectures for Python web applications including real-world examples. I&#39;ll give examples with Django, but the important bits aren&#39;t Django-specific." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Plugin ecosystems for Python web-applications

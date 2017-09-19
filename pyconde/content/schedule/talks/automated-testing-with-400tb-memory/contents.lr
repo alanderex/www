@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Automated testing with 400TB memory
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Christoph Heer: Automated testing with 400TB memory" />
+<meta name="twitter:description" content="SAP operates a dedicated test infrastructure with more than 400TB main memory for its in-memory database SAP HANA. All custom implementations like improved scheduling, caching of artifacts and monitoring were implemented in our favorite programming language Python." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Automated testing with 400TB memory

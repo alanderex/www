@@ -2,6 +2,15 @@ _model: page_markdown
 ---
 title: No Compromise: Use Ansible properly or stick to your scripts
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Bjoern Meier: No Compromise: Use Ansible properly or stick to your scripts" />
+<meta name="twitter:description" content="What you do in Ansible should be clean an simple. What we did was not.
+So I will show what we did wrong but also what we have changed or still have to, to make our life easier again. But I will also show how we progressively utilize Ansible to deploy our Data Science infrastructure." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # No Compromise: Use Ansible properly or stick to your scripts

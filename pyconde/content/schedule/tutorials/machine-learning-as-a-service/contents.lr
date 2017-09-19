@@ -2,6 +2,16 @@ _model: page_markdown
 ---
 title: Machine Learning as a Service
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Anand Chitipothu: Machine Learning as a Service" />
+<meta name="twitter:description" content="This workshop addresses one of the most common pain points we have come across with data scientists at many organizations: moving data science solutions to production.
+
+The attendees would learn how to build a seamless end-to-end data driven application to solve a business  problem." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Machine Learning as a Service

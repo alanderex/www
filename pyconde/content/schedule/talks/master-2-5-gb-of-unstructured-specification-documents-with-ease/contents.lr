@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Master 2.5 GB of unstructured specification documents with ease
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Dr. Andreas Schilling: Master 2.5 GB of unstructured specification documents with ease" />
+<meta name="twitter:description" content="How Do you kick start a project which is based on 2.5 GB files of unstructured specification documents? To answer this question, we present our lessons learned from developing a Python based knowledge management tool which provides a lightweight and intuitive browser frontend." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Master 2.5 GB of unstructured specification documents with ease

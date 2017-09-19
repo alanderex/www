@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Keeping the grip on decoupled code using CLIs
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Anne Matthies: Keeping the grip on decoupled code using CLIs" />
+<meta name="twitter:description" content="So you’ve decoupled your code monolith into all those micro chunks. When someone asks „How can I…“ you want to answer: „That’s easy! We’ve built that.“ Actually, you’ve built all parts needed for that. Who plugs them together? And how?" />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Keeping the grip on decoupled code using CLIs

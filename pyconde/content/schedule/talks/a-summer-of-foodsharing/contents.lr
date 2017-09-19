@@ -2,12 +2,20 @@ _model: page_markdown
 ---
 title: A Summer of Foodsharing 
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Ines Dorian Gütt,Marie Dedikova: A Summer of Foodsharing " />
+<meta name="twitter:description" content="People talk a lot about diversity in tech. My team mate Marie and I have decided to give it a try and applied for a sponsored program this summer. Will it open us the doors to the world of software architecture, APIs and data processing?" />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # A Summer of Foodsharing 
 <div class="avatar">
 ![](https://secure.gravatar.com/avatar/e725ad992d2fc548efac30b0236a93c0?s=500)
-**[Ines Dorian Gütt](https://railsgirlssummerofcode.org/blog/2017-07-13-print_hello_world)** ([@dankefish](http://twitter.com/dankefish))
+**[Ines Dorian Gütt,Marie Dedikova](https://railsgirlssummerofcode.org/blog/2017-07-13-print_hello_world)** ([@dankefish](http://twitter.com/dankefish))
 
 
 As a teenager, I built some simple html-pages, but I never considered becoming a programmer. Instead, I studied museology and art history, worked as a designer and in marketing. However coding always comes back to me – in side projects, work etc.

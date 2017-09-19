@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Convolutional Neural Networks for Image Moderation & Visual Similarity
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Alex Conway: Convolutional Neural Networks for Image Moderation &amp; Visual Similarity" />
+<meta name="twitter:description" content="This talk is a crash course on convolutional neural networks and how to use them to solve 2 real-world applications at scale. The first is an image moderation system and the second is a visual similarity system where a user uploads an image of an item and the system returns visually similar items." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Convolutional Neural Networks for Image Moderation & Visual Similarity

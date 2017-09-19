@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Data Science Best Practices : From Proof of Concepts to Production
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Yasir Khan: Data Science Best Practices : From Proof of Concepts to Production" />
+<meta name="twitter:description" content="This presentation will benefit the audience as it brings forward the practical issues in the industry today as we move towards industrializing data science algorithms. We will discuss the best practices around organization, methodology and tools to integrate a data science project into production." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Data Science Best Practices : From Proof of Concepts to Production

@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: And now to something ELSE: Real Time Data Processing @ billiger.de
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Axel Arnold: And now to something ELSE: Real Time Data Processing @ billiger.de" />
+<meta name="twitter:description" content="billiger.de is one of the largest price comparison websites in Germany. In this talk, we want to share how we built the scalable, event-driven processing system which renders the products for our website using Python, Elasticsearch and redis." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # And now to something ELSE: Real Time Data Processing @ billiger.de

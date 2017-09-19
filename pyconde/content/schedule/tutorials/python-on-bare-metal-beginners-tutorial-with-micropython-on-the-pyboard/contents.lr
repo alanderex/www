@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Python on bare metal – Beginners tutorial with MicroPython on the pyboard
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Christine Spindler: Python on bare metal – Beginners tutorial with MicroPython on the pyboard" />
+<meta name="twitter:description" content="MicroPython is a complete reimplementation of Python that runs on small devices like microcontrollers. In this hands-on workshop I&#39;ll show how easy it is to use MicroPython on a pyboard." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Python on bare metal – Beginners tutorial with MicroPython on the pyboard

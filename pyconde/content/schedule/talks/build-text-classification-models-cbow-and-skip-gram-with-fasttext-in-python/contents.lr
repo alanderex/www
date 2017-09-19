@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Build text classification models ( CBOW and Skip-gram) with FastText in python
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Kajal Puri: Build text classification models ( CBOW and Skip-gram) with FastText in python" />
+<meta name="twitter:description" content="NLP is an exciting way to interpret the textual data especially when we know that computer neither speak nor understand any kind of human language. So, how do we represent each word of a language in such a unique numerical pattern and process it in quickest way possible. Answer is FastText library." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Build text classification models ( CBOW and Skip-gram) with FastText in python

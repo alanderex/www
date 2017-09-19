@@ -2,6 +2,16 @@ _model: page_markdown
 ---
 title: Metaclasses - When to Use and When Not to Use
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Mike Müller: Metaclasses - When to Use and When Not to Use" />
+<meta name="twitter:description" content="Most Python programmer will never use metaclasses in production code.
+Nevertheless, it can be useful to learn how they work to get a deeper understanding of Python internals. 
+Furthermore, they can help to inspect a foreign code base at run time by programmatically extracting interesting details." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Metaclasses - When to Use and When Not to Use

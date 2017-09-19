@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Rasa: open source conversational AI to build next generation chatbots
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Joey Faulkner: Rasa: open source conversational AI to build next generation chatbots" />
+<meta name="twitter:description" content="Soon you will primarily communicate with your computer through conversation. At Rasa, we believe that this revolution in user experience should be available to everyone. In this spirit we have developed open source tools that use machine learning to make chatbots in a developer-friendly interface." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Rasa: open source conversational AI to build next generation chatbots

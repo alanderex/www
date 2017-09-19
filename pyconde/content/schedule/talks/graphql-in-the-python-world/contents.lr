@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Graphql in the Python World
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Nafiul Islam: Graphql in the Python World" />
+<meta name="twitter:description" content="So you&#39;ve heard about this new thing called Graphql. What is it all about? What problems does it solve, and most importantly, how can you leverage it the python ecosystem? This talk is a tell all on what what Graphql is and how you can start using it with Python." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Graphql in the Python World

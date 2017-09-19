@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Building your own SDN with Debian Linux, Salt Stack and Python
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Maximilian Wilhelm: Building your own SDN with Debian Linux, Salt Stack and Python" />
+<meta name="twitter:description" content="In this talk you will get an overview about some awesome features of comtemporary Linux networking, how to easily integrate them with some cool open source tools, and glueing all this together with Salt Stack and some Python to get your very own SDN controller for a service-provider style network." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Building your own SDN with Debian Linux, Salt Stack and Python

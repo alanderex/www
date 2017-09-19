@@ -6,7 +6,7 @@ body:
 
 
 # [A Summer of Foodsharing ](./a-summer-of-foodsharing/)
-**Ines Dorian Gütt**
+**Ines Dorian Gütt,Marie Dedikova**
 
 People talk a lot about diversity in tech. My team mate Marie and I have decided to give it a try and applied for a sponsored program this summer. Will it open us the doors to the world of software architecture, APIs and data processing?
 
@@ -94,7 +94,7 @@ The talk describes how to make your first anaconda package and what the advantag
 
 
 # [Empowered by Python - A success story](./empowered-by-python-a-success-story/)
-**Jens Nie**
+**Jens Nie,Andre Lengwenus**
 
 Introducing a new programming language in a company is always a daring task, usually involving a lot of effort and the will for change.
 
@@ -212,7 +212,7 @@ In this session you will get a gentle introduction to the ever-expanding world o
 
 
 # [Project Avatar - Telepresence robotics with Nao and Kinect](./project-avatar-telepresence-robotics-with-nao-and-kinect/)
-**Thomas Reifenberger**
+**Thomas Reifenberger,Martin Foertsch**
 
 Using humanoid robots, VR glasses and 3D cameras you can experience the world through the eyes of a robot and control it via gestures. We built a telepresence robotics system based on a Nao robot, an Oculus Rift and a Kinect One to realize an immersive "out-of-body experience" as in  "Avatar".
 

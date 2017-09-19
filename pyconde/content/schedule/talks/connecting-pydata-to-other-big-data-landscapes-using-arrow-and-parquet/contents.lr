@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Connecting PyData to other Big Data Landscapes using Arrow and Parquet
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Uwe L. Korn: Connecting PyData to other Big Data Landscapes using Arrow and Parquet" />
+<meta name="twitter:description" content="While Python itself hosts a wide range of machine learning and data tools, other ecosystems like the Hadoop world also provide beneficial tools that can be either connected via Apache Parquet files or in memory using Arrow. This talks shows recent developments that allow interoperation at speed." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Connecting PyData to other Big Data Landscapes using Arrow and Parquet

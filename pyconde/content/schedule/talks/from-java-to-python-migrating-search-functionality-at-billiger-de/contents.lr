@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: From Java to Python: Migrating Search Functionality at billiger.de
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Patrick Schemitz: From Java to Python: Migrating Search Functionality at billiger.de" />
+<meta name="twitter:description" content="billiger.de is a German price comparison site. Search is handled by a heavily customized Solr setup. When switching to SolrCloud earlier this year, instead of porting our custom SolrComponents to SolrCloud, we ended up re-implementing them in a Python service layer. Here we show how, and why." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # From Java to Python: Migrating Search Functionality at billiger.de

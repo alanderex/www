@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Python with Apache OpenWhisk
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Ansgar Schmidt: Python with Apache OpenWhisk" />
+<meta name="twitter:description" content="OpenWhisk is an opensource implementation of a so called serverless computing platform. At a live presentation I will show how to write an serverless application and how to deal with libraries and events. OpenWhisk is an open source alternative to AWS lambda or MS functions. " />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Python with Apache OpenWhisk

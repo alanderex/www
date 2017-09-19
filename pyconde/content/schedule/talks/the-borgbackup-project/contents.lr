@@ -2,6 +2,18 @@ _model: page_markdown
 ---
 title: The BorgBackup Project
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Thomas Waldmann: The BorgBackup Project" />
+<meta name="twitter:description" content="BorgBackup is a modern, deduplicating backup software written in Python 3.4+, Cython and C.
+
+The talk will start with a quick presentation about the software and why you may want to use it for your backups.
+
+Then, I will show how we run the software project: Tools, Services, Best Practices." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # The BorgBackup Project

@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Technical Lessons Learned from Pythonic Refactoring
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Yenny Cheung: Technical Lessons Learned from Pythonic Refactoring" />
+<meta name="twitter:description" content="Ever stumbled upon poorly-maintained codebases that suck away your productivity? Fear no more! This talk addresses how to identify code smell (from Brie to Bleu cheese) and go through examples to refactor code and APIs. You will learn the art of writing clean, maintainable and idiomatic Python code." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Technical Lessons Learned from Pythonic Refactoring

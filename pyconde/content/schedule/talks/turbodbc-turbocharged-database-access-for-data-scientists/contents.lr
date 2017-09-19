@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Turbodbc: Turbocharged database access for data scientists
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Michael König: Turbodbc: Turbocharged database access for data scientists" />
+<meta name="twitter:description" content="Python&#39;s database API 2.0 is well suited for transactional database workflows, but not so much for column-heavy data science. This talk explains how the ODBC-based turbodbc database module extends this API with first-class, efficient support for familiar NumPy and Apache Arrow data structures." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Turbodbc: Turbocharged database access for data scientists

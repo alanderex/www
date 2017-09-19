@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Data Science Project for Beginners
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Natalie Speiser &amp; Jens Beyer: Data Science Project for Beginners" />
+<meta name="twitter:description" content="AI and Machine Learning are taking over the world - but how do you actually start with understanding your data and predicting events? And what kind of &#34;political&#34; trouble could you run into? With examples from real projects, we try to give you a feeling for data science projects." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Data Science Project for Beginners

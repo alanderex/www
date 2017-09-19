@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: An Admin's Cornucopia - Python Is More Than Just A Better Bash
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Christian Theune: An Admin&#39;s Cornucopia - Python Is More Than Just A Better Bash" />
+<meta name="twitter:description" content="Python&#39;s versatility is known to admins - in this talk I&#39;d like to show how it fits for many small and big challenges I meet regularly: from tiny scripts to large systems. Also, I&#39;ll show how using the languages&#39; advanced and/or newer features makes scripts more compact and robust." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # An Admin's Cornucopia - Python Is More Than Just A Better Bash

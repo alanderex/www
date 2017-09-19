@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Large-scale machine learning pipelines using Luigi, PySpark and scikit-learn
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Alexander Bauer: Large-scale machine learning pipelines using Luigi, PySpark and scikit-learn" />
+<meta name="twitter:description" content="For prescriptive analytics applications, data science teams need to design, build and maintain complex machine learning pipelines. In this talk, we demonstrate how such pipelines can be implemented in a robust, scalable and extensible manner using Python, Luigi, PySpark and scikit-learn." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Large-scale machine learning pipelines using Luigi, PySpark and scikit-learn

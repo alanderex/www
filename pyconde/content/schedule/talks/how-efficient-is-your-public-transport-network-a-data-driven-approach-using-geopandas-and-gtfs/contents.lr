@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: How efficient is your public transport network? A data-driven approach using Geopandas and GTFS
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Pieter Mulder: How efficient is your public transport network? A data-driven approach using Geopandas and GTFS" />
+<meta name="twitter:description" content="The presentation will explain how GeoPandas and other tools are used to analyse GTFS files to calculate the reachability of a public transport system." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # How efficient is your public transport network? A data-driven approach using Geopandas and GTFS

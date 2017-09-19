@@ -2,6 +2,15 @@ _model: page_markdown
 ---
 title: Theoretical physics with sympy
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Florian Thöle: Theoretical physics with sympy" />
+<meta name="twitter:description" content="In this talk, I will introduce the basics of sympy. Using a simple model system in magnetism, we&#39;ll play around with simplifications, then do a bit of numerical optimization and in the end make psychedelic-looking figures.
+" />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Theoretical physics with sympy

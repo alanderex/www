@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Platform intrusion detection with deep learning
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Carsten Pohl: Platform intrusion detection with deep learning" />
+<meta name="twitter:description" content="shop.rewe.de is not only visited by human customers, but also by machines. We have built a deep learning platform using python with Keras, Tensorflow, on the Google infrastructure. In this talk we would like to show you how python is used in practice, supporting 2,5 million visitors each day." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Platform intrusion detection with deep learning

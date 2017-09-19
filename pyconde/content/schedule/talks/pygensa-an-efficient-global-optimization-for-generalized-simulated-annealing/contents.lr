@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: PyGenSA: An Efficient Global Optimization for Generalized Simulated Annealing
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Stephane Cano: PyGenSA: An Efficient Global Optimization for Generalized Simulated Annealing" />
+<meta name="twitter:description" content="The PyGenSA python module has been developed for generalized simulated annealing to process complicated non-linear objective functions with a large number of local minima." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # PyGenSA: An Efficient Global Optimization for Generalized Simulated Annealing

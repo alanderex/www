@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: An introduction to PyMC3
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Adrian Seyboldt: An introduction to PyMC3" />
+<meta name="twitter:description" content="PyMC3 allows you to build statistical models for a wide range of datasets, use those models to estimate underlying parameters, and compute the uncertainty about those parameters. In this talk I will try to give a gentle introduction to PyMC3, and help avoid common pitfalls for new users." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # An introduction to PyMC3

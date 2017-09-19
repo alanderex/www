@@ -2,6 +2,17 @@ _model: page_markdown
 ---
 title: The Mustache Movement
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Heidi Thorpe: The Mustache Movement" />
+<meta name="twitter:description" content="Generative Adversarial Networks (GANs) are a class of neural networks which  are powerful and flexible tools.
+A common application is image generation.
+I would like to give a simple introduction to GANs using existing python modules and an example of how &#34;mustache-ness&#34; can be learned and applied.
+" />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # The Mustache Movement

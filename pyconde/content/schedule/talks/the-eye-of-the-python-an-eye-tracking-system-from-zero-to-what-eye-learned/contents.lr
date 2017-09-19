@@ -2,6 +2,15 @@ _model: page_markdown
 ---
 title: The eye of the Python, an eye tracking system. From zero to... what eye learned.
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Samuel Muñoz Hidalgo | BEEVA: The eye of the Python, an eye tracking system. From zero to... what eye learned." />
+<meta name="twitter:description" content="Is it possible to predict the point in the screen where a person is looking at? Easy to say but hard to do.
+An eye tracking system is the perfect project to learn the difficulties of applied machine learning. From gathering training data to building the final software with an acceptable performance." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # The eye of the Python, an eye tracking system. From zero to... what eye learned.

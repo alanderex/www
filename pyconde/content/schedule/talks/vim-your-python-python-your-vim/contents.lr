@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Vim your Python, Python your Vim
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Miroslav Šedivý: Vim your Python, Python your Vim" />
+<meta name="twitter:description" content="What do you use to write source code, docs, books or e-mails? Single brain, single pair of hands, single keyboard, but a different keyboard layout for each language and a different text editor for each purpose? " />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Vim your Python, Python your Vim

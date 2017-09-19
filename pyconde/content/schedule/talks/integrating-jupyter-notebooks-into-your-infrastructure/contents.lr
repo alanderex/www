@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Integrating Jupyter Notebooks into your Infrastructure
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Florian Rhiem: Integrating Jupyter Notebooks into your Infrastructure" />
+<meta name="twitter:description" content="Jupyter Notebooks combine executable code and rich text elements in a web application. In this talk you will learn how a custom JupyterHub installation can be used to integrate Jupyter Notebooks into your infrastructure, including existing authentication methods and custom software distributions." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Integrating Jupyter Notebooks into your Infrastructure

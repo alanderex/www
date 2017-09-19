@@ -2,6 +2,15 @@ _model: page_markdown
 ---
 title: Hacking the Python AST
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Suhas SG: Hacking the Python AST" />
+<meta name="twitter:description" content="Computer languages are a remarkable feat of human scientific engineering. In this talk, we&#39;ll look at the innards of CPython, and specifically learn how to modify and hack Abstract Syntax Trees (for world peace, of course).
+" />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Hacking the Python AST

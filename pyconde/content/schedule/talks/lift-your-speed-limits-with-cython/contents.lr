@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Lift your Speed Limits with Cython
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Stefan Behnel: Lift your Speed Limits with Cython" />
+<meta name="twitter:description" content="Think you can benefit from making your Python application run faster? Then come along and learn how to tune your code with Cython." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Lift your Speed Limits with Cython

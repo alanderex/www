@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Getting Scikit-Learn To Run On Top Of Pandas
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Ami Tavory: Getting Scikit-Learn To Run On Top Of Pandas" />
+<meta name="twitter:description" content="Scikit-Learn is built directly over numpy, Python&#39;s numerical array library. Pandas adds to numpy metadata and higher-level munging capabilities. This talk describes how to intelligently auto-wrap Scikit-Learn for creating a version that can leverage pandas&#39;s added features." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Getting Scikit-Learn To Run On Top Of Pandas

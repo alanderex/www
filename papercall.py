@@ -60,6 +60,14 @@ tpl = """_model: page_markdown
 ---
 title: {{title}}
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="{{name|escape}}: {{title|escape}}" />
+<meta name="twitter:description" content="{{abstract|escape}}" />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # {{title}}
@@ -200,7 +208,7 @@ def gen_schedule_databag():
 def main(args=None):
     if args is None:
         args = sys.argv
-    #gen() 
+    gen() 
     #bada() 
     gen_schedule_databag() 
 

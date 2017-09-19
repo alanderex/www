@@ -2,6 +2,14 @@ _model: page_markdown
 ---
 title: Migrating existing codebases to using type annotations
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Stephan Jaensch: Migrating existing codebases to using type annotations" />
+<meta name="twitter:description" content="You have an existing codebase of tens or hundreds of thousands of lines of Python code? Learn how to get started with type annotations! Get your teammates (and yourself!) to always annotate your code. Find out what unexpected issues you might run into and how to solve them, all with this talk." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Migrating existing codebases to using type annotations
