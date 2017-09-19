@@ -5,6 +5,7 @@ from jinja2 import Template
 import re
 from unicodedata import normalize
 import os
+from openpyxl import load_workbook
 
 
 _punct_re = re.compile(r'[\t !"#$%&\'()*\-/<=>?@\[\\\]^_`{|},.]+')
@@ -40,8 +41,18 @@ for d in data:
         d['name'] = 'Ami Tavory'
     elif d['slug'] == 'metaclasses-when-to-use-and-when-not-to-use':
         d['description'] = d['description'].replace("# Description", "")
+    elif d['name'] == "Jens Nie":
+        d['name'] = "Jens Nie,Andre Lengwenus"
+    elif d['name'] == "Ines Dorian Gütt":
+        d['name'] = "Ines Dorian Gütt,Marie Dedikova"
+    elif d['name'] == "Thomas Reifenberger":
+        d['name'] = "Thomas Reifenberger,Martin Foertsch"
 
 
+def get_talk(speaker):
+    for d in data:
+        if d["name"] == speaker:
+            return d
 
 
 
@@ -131,11 +142,67 @@ def bada():
         print(entry["avatar"])
         print()
 
+
+def parse(s):
+    if "available" in s:
+        return {}
+    first, speaker = s.split("[[")
+    speaker = speaker.rstrip("]")
+    tags = first.rsplit('(',1)[1].rstrip(")")
+    tags = [x.strip() for x in tags.split("|") if x.strip()]
+    if speaker == "adrian.seyboldt@gmail.com":
+        speaker = 'Adrian Seyboldt'
+    elif speaker == "atavory@gmail.com":
+        speaker = 'Ami Tavory'
+
+    talk = get_talk(speaker)
+
+    
+    if talk is None:
+        print(speaker)
+        talk = {"title": "FIXE", "slug": "FIXME"}
+    return {"speaker": speaker, "tags": tags, "title": talk["title"], "slug": talk["slug"]}
+
+def gen_schedule_databag():
+    wb = load_workbook('schedule.xlsx')
+    sheet = wb['Sheet1']
+
+    d1 = [2,3,5,6,8,9]
+    d2 = [11,12,13,15,16,18,19]
+    d3 = [21,22,23,25,26]
+    talks = {}
+    for day, rows in enumerate([d1,d2,d3]):
+        for row_nr, row in enumerate(rows):
+            key = "THEATRE_{}_{}".format(day+1,row_nr+1)
+            value = sheet["C{}".format(row)].value
+            talks[key] = parse(value)
+            
+            key = "LECTURE_{}_{}".format(day+1,row_nr+1)
+            value = sheet["E{}".format(row)].value
+            talks[key] = parse(value)
+
+
+            key = "FLOOR_{}_{}".format(day+1,row_nr+1)
+            value = sheet["B{}".format(row)].value
+            talks[key] = parse(value)
+
+    json.dump(talks, open("pyconde/databags/talks.json", "w"), indent=4)
+
+    tutorials = {}
+    for day, rows in enumerate([[2,5,8],[11,15,18],[21,25]]):
+        for row_nr, row in enumerate(rows):
+            key = "MUSEUM_{}_{}".format(day+1,row_nr+1)
+            value = sheet["D{}".format(row)].value
+            talks[key] = parse(value)
+    json.dump(talks, open("pyconde/databags/tutorials.json", "w"), indent=4)
+
+
 def main(args=None):
     if args is None:
         args = sys.argv
-    gen() 
+    #gen() 
     #bada() 
+    gen_schedule_databag() 
 
 if __name__ == "__main__":
     main()
