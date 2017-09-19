@@ -149,7 +149,7 @@ def parse(s):
     first, speaker = s.split("[[")
     speaker = speaker.rstrip("]")
     tags = first.rsplit('(',1)[1].rstrip(")")
-    tags = [x.strip() for x in tags.split("|") if x.strip()]
+    tags = [x.strip() for x in tags.split("|") if x.strip() and x.strip() != "Other"]
     if speaker == "adrian.seyboldt@gmail.com":
         speaker = 'Adrian Seyboldt'
     elif speaker == "atavory@gmail.com":

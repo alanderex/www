@@ -101,8 +101,7 @@
         "speaker": "Thuy Le",
         "tags": [
             "Data Science",
-            "Programming",
-            "Other"
+            "Programming"
         ],
         "title": "Sport analysis with Python",
         "slug": "sport-analysis-with-python"
@@ -182,8 +181,7 @@
     "FLOOR_2_1": {
         "speaker": "Uwe L. Korn",
         "tags": [
-            "Data Science",
-            "Other"
+            "Data Science"
         ],
         "title": "Connecting PyData to other Big Data Landscapes using Arrow and Parquet",
         "slug": "connecting-pydata-to-other-big-data-landscapes-using-arrow-and-parquet"
@@ -228,8 +226,7 @@
     "LECTURE_2_3": {
         "speaker": "Anne Matthies",
         "tags": [
-            "Programming",
-            "Other"
+            "Programming"
         ],
         "title": "Keeping the grip on decoupled code using CLIs",
         "slug": "keeping-the-grip-on-decoupled-code-using-clis"
@@ -238,8 +235,7 @@
         "speaker": "Nils Braun",
         "tags": [
             "Data Science",
-            "Programming",
-            "Other"
+            "Programming"
         ],
         "title": "Time series feature extraction with tsfresh - \u201cget rich or die overfitting\u201d",
         "slug": "time-series-feature-extraction-with-tsfresh-get-rich-or-die-overfitting"
@@ -255,8 +251,7 @@
     "LECTURE_2_4": {
         "speaker": "Maximilian Wilhelm",
         "tags": [
-            "DevOps",
-            "Other"
+            "DevOps"
         ],
         "title": "Building your own SDN with Debian Linux, Salt Stack and Python",
         "slug": "building-your-own-sdn-with-debian-linux-salt-stack-and-python"
@@ -282,7 +277,6 @@
         "speaker": "Bjoern Meier",
         "tags": [
             "DevOps",
-            "Other",
             "Business Track"
         ],
         "title": "No Compromise: Use Ansible properly or stick to your scripts",
@@ -374,7 +368,6 @@
         "speaker": "Ansgar Schmidt",
         "tags": [
             "Business Track",
-            "Other",
             "Web",
             "Programming"
         ],
@@ -411,8 +404,7 @@
     "FLOOR_3_3": {
         "speaker": "Christian Theune",
         "tags": [
-            "Programming",
-            "Other"
+            "Programming"
         ],
         "title": "An Admin's Cornucopia - Python Is More Than Just A Better Bash",
         "slug": "an-admin-s-cornucopia-python-is-more-than-just-a-better-bash"
@@ -456,8 +448,7 @@
         "speaker": "Christoph Heer",
         "tags": [
             "Business Track",
-            "Programming",
-            "Other"
+            "Programming"
         ],
         "title": "Automated testing with 400TB memory",
         "slug": "automated-testing-with-400tb-memory"
