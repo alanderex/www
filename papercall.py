@@ -193,8 +193,8 @@ def gen_schedule_databag():
         for row_nr, row in enumerate(rows):
             key = "MUSEUM_{}_{}".format(day+1,row_nr+1)
             value = sheet["D{}".format(row)].value
-            talks[key] = parse(value)
-    json.dump(talks, open("pyconde/databags/tutorials.json", "w"), indent=4)
+            tutorials[key] = parse(value)
+    json.dump(tutorials, open("pyconde/databags/tutorials.json", "w"), indent=4)
 
 
 def main(args=None):
