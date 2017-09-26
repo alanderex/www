@@ -1,12 +1,12 @@
 _model: page_markdown
 ---
-title: How to found a company
+title: How to Fund Your Company
 ---
 head_extra:
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@pyconde" />
-<meta name="twitter:title" content="Ingo Stegmaier: How to found a company" />
+<meta name="twitter:title" content="Ingo Stegmaier: How to Fund Your Company" />
 <meta name="twitter:description" content="Thinking about founding a Start-up, or you just did it?
 This workshop will give you an overview about the features and set up needed to start a company and to run it successfully. 
 Furthermore, we will discuss how the financing of a start-up can be structured and what financing method can be used. 
@@ -15,7 +15,7 @@ Furthermore, we will discuss how the financing of a start-up can be structured a
 ---
 body:
 
-# How to found a company
+# How to Fund Your Company
 <div class="avatar">
 ![](https://secure.gravatar.com/avatar/8cbd0ce5776ed3cfbd33d27c74ad5eed?s=500)
 **[Ingo Stegmaier](http://www.koenigsweg.com/)** 

@@ -29,24 +29,25 @@ def enrich(entry):
     entry["tags_str"] = " ".join(entry["tags"][:10]) 
     return entry
 
-data = json.load(open("submissions.json"))
+#data = json.load(open("submissions.json"))
+data = json.load(open("speakers_accepted.json"))
 data = list(filter(lambda entry: entry["state"] == "accepted", data))
 data = list(map(enrich, data))
 data.sort(key=lambda entry: entry["title"])
 
-for d in data:
-    if d['slug'] == 'an-introduction-to-pymc3':
-        d['name'] = 'Adrian Seyboldt'
-    elif d['slug'] == 'getting-scikit-learn-to-run-on-top-of-pandas':
-        d['name'] = 'Ami Tavory'
-    elif d['slug'] == 'metaclasses-when-to-use-and-when-not-to-use':
-        d['description'] = d['description'].replace("# Description", "")
-    elif d['name'] == "Jens Nie":
-        d['name'] = "Jens Nie,Andre Lengwenus"
-    elif d['name'] == "Ines Dorian Gütt":
-        d['name'] = "Ines Dorian Gütt,Marie Dedikova"
-    elif d['name'] == "Thomas Reifenberger":
-        d['name'] = "Thomas Reifenberger,Martin Foertsch"
+# for d in data:
+#     if d['slug'] == 'an-introduction-to-pymc3':
+#         d['name'] = 'Adrian Seyboldt'
+#     elif d['slug'] == 'getting-scikit-learn-to-run-on-top-of-pandas':
+#         d['name'] = 'Ami Tavory'
+#     elif d['slug'] == 'metaclasses-when-to-use-and-when-not-to-use':
+#         d['description'] = d['description'].replace("# Description", "")
+#     elif d['name'] == "Jens Nie":
+#         d['name'] = "Jens Nie,Andre Lengwenus"
+#     elif d['name'] == "Ines Dorian Gütt":
+#         d['name'] = "Ines Dorian Gütt,Marie Dedikova"
+#     elif d['name'] == "Thomas Reifenberger":
+#         d['name'] = "Thomas Reifenberger,Martin Foertsch"
 
 
 def get_talk(speaker):
@@ -114,8 +115,8 @@ tutorials = ['practical-data-cleaning-101',
             'metaclasses-when-to-use-and-when-not-to-use',
             'network-analysis-using-python',
             'topic-modelling-and-a-lot-more-with-nlp-framework-gensim',
-            'how-to-found-a-company',
-            'python-on-bare-metal-beginners-tutorial-with-micropython-on-the-pyboard'
+            'python-on-bare-metal-beginners-tutorial-with-micropython-on-the-pyboard',
+            'how-to-fund-your-company'
             ]
 
 
@@ -144,11 +145,13 @@ def gen():
         dump(entry, kind='talks')
 
 def bada():
+    tpl = """#PyConDE Talk @{twitter}:
+{title}
+
+https://de.pycon.org/schedule/talks/{slug}/"""
     for entry in data:
-        print(entry["slug"])
-        print(entry["name"])
-        print(entry["avatar"])
-        print()
+        print(tpl.format(**entry))
+        print("\n---\n\n")
 
 
 def parse(s):

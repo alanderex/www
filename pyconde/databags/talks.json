@@ -5,8 +5,8 @@
             "Data Science",
             "Business Track"
         ],
-        "title": "Convolutional Neural Networks for Image Moderation & Visual Similarity",
-        "slug": "convolutional-neural-networks-for-image-moderation-visual-similarity"
+        "title": "Deep Learning for Computer Vision",
+        "slug": "deep-learning-for-computer-vision"
     },
     "LECTURE_1_1": {
         "speaker": "Stefan Behnel",
