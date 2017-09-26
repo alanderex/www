@@ -293,14 +293,11 @@
         "slug": "technical-lessons-learned-from-pythonic-refactoring"
     },
     "THEATRE_2_6": {
-        "speaker": "Reimar Bauer",
+        "speaker": "",
         "tags": [
-            "Programming",
-            "Data Science",
-            "Business Track"
         ],
-        "title": "Delivering / Deployment applications by anaconda and conda-forge",
-        "slug": "delivering-deployment-applications-by-anaconda-and-conda-forge"
+        "title": "",
+        "slug": ""
     },
     "LECTURE_2_6": {},
     "FLOOR_2_6": {
