@@ -79,12 +79,16 @@ body:
                   <p><a href="http://koenigsweg.com"><img src="../files/koenigsweg-logo.png" alt="koenigsweg" /></a></p>
                   <h3>Community Sponsor</h3>
               </div>
+              <div class="col-md-4 sponsor" >
+                  <p><a href="http://www.python-academy.com"><img src="../files/python-academy-logo.svg" alt="python academy" /></a></p>
+                  <h3>Community Sponsor</h3>
+              </div>
+            </div> <!-- END ROW -->
+            <div class="row">
               <div class="col-md-4 sponsor">
                   <p><a href="http://karlsruhe.de"><img src="../files/karlsruhe-logo.jpg" alt="Karlsruhe" /></a></p>
                   <h3>Partner</h3>
               </div>
-            </div> <!-- END ROW -->
-            <div class="row">
               <div class="col-md-4 sponsor">
                   <p><a href="http://cyberforum.de"><img src="../files/cyberforum-logo.png" alt="cyberforum" /></a></p>
                   <h3>Media Partner</h3>
@@ -93,9 +97,6 @@ body:
                   <p><a href="https://www.python.org/psf/"><img src="../files/psf-logo.png" alt="Python Software Foundation" /></a></p>
                   <h3>Fin Aid Sponsor</h3>
               </div>
-              <div class="col-md-4 sponsor">
-              </div>
-
             </div> <!-- END ROW -->
 
         </div>
