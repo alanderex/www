@@ -94,8 +94,8 @@
             "Web",
             "Programming"
         ],
-        "title": "Plugin ecosystems for Python web applications",
-        "slug": "plugin-ecosystems-for-python-web-applications"
+        "title": "Data internationalization in Django",
+        "slug": "data-internationalization-in-django"
     },
     "FLOOR_1_4": {
         "speaker": "Thuy Le",
@@ -293,13 +293,23 @@
         "slug": "technical-lessons-learned-from-pythonic-refactoring"
     },
     "THEATRE_2_6": {
-        "speaker": "",
+        "speaker": "Sebastian Dre\u00dfler",
         "tags": [
+            "Data Science",
+            "Business Track"
         ],
-        "title": "",
-        "slug": ""
+        "title": "High-Performance Ingestion with Python and Swarm64DB",
+        "slug": "high-performance-ingestion-with-python-and-swarm64db"
     },
-    "LECTURE_2_6": {},
+    "LECTURE_2_6": {
+        "speaker": "Eberhard Hansis",
+        "tags": [
+            "Data Science",
+            "Business Track"
+        ],
+        "title": "Data Plumbing 101 - ETL Pipelines for Everyday Projects",
+        "slug": "data-plumbing-101-etl-pipelines-for-everyday-projects"
+    },
     "FLOOR_2_6": {
         "speaker": "Patrick Schemitz",
         "tags": [
@@ -390,13 +400,13 @@
         "slug": "getting-scikit-learn-to-run-on-top-of-pandas"
     },
     "LECTURE_3_3": {
-        "speaker": "Ines Dorian G\u00fctt,Marie Dedikova",
+        "speaker": "David W\u00f6lfle",
         "tags": [
-            "Web",
+            "DevOps",
             "Programming"
         ],
-        "title": "A Summer of Foodsharing ",
-        "slug": "a-summer-of-foodsharing"
+        "title": "From 0 to Continuous Delivery in 30 minutes.",
+        "slug": "from-0-to-continuous-delivery-in-30-minutes"
     },
     "FLOOR_3_3": {
         "speaker": "Christian Theune",
