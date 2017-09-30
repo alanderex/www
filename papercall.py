@@ -116,6 +116,7 @@ template_index = Template(tpl_index)
 
 tutorials = ['practical-data-cleaning-101',
              'machine-learning-as-a-service',
+             'machine-learning-as-a-service',
              'metaclasses-when-to-use-and-when-not-to-use',
              'network-analysis-using-python',
              'topic-modelling-and-a-lot-more-with-nlp-framework-gensim',
