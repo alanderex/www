@@ -167,10 +167,11 @@ def parse(s):
     speaker = speaker.rstrip("]")
     tags = first.rsplit('(', 1)[1].rstrip(")")
     tags = [x.strip() for x in tags.split("|") if x.strip() and x.strip() != "Other"]
-    if speaker == "adrian.seyboldt@gmail.com":
-        speaker = 'Adrian Seyboldt'
-    elif speaker == "atavory@gmail.com":
-        speaker = 'Ami Tavory'
+    # below moved to ipynb updates
+    # if speaker == "adrian.seyboldt@gmail.com":
+    #     speaker = 'Adrian Seyboldt'
+    # elif speaker == "atavory@gmail.com":
+    #     speaker = 'Ami Tavory'
 
     talk = get_talk(speaker)
 

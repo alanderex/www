@@ -107,14 +107,14 @@
         "slug": "sport-analysis-with-python"
     },
     "THEATRE_1_5": {
-        "speaker": "Natalie Speiser & Jens Beyer",
+        "speaker": "Natalie Speiser,Jens Beyer",
         "tags": [
             "Data Science",
             "Programming",
             "Business Track"
         ],
-        "title": "FIXE",
-        "slug": "FIXME"
+        "title": "Data Science Project for Beginners",
+        "slug": "data-science-project-for-beginners"
     },
     "LECTURE_1_5": {
         "speaker": "Miroslav \u0160ediv\u00fd",
