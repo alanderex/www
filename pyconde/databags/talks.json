@@ -113,8 +113,8 @@
             "Programming",
             "Business Track"
         ],
-        "title": "Data Science Project for Beginners",
-        "slug": "data-science-project-for-beginners"
+        "title": "FIXE",
+        "slug": "FIXME"
     },
     "LECTURE_1_5": {
         "speaker": "Miroslav \u0160ediv\u00fd",
@@ -241,12 +241,13 @@
         "slug": "time-series-feature-extraction-with-tsfresh-get-rich-or-die-overfitting"
     },
     "THEATRE_2_4": {
-        "speaker": "Tal Perry",
+        "speaker": "Sebastian Dre\u00dfler",
         "tags": [
-            "Data Science"
+            "Data Science",
+            "Business Track"
         ],
-        "title": "Convolutional Methods for Text",
-        "slug": "convolutional-methods-for-text"
+        "title": "High-Performance Ingestion with Python and Swarm64DB",
+        "slug": "high-performance-ingestion-with-python-and-swarm64db"
     },
     "LECTURE_2_4": {
         "speaker": "Maximilian Wilhelm",
@@ -266,12 +267,13 @@
         "slug": "an-introduction-to-pymc3"
     },
     "THEATRE_2_5": {
-        "speaker": "Gopi Suvanam",
+        "speaker": "Michael K\u00f6nig",
         "tags": [
-            "Data Science"
+            "Data Science",
+            "Programming"
         ],
-        "title": "Out-of-core Analytics Using Python",
-        "slug": "out-of-core-analytics-using-python"
+        "title": "Turbodbc: Turbocharged database access for data scientists",
+        "slug": "turbodbc-turbocharged-database-access-for-data-scientists"
     },
     "LECTURE_2_5": {
         "speaker": "Bjoern Meier",
@@ -293,13 +295,12 @@
         "slug": "technical-lessons-learned-from-pythonic-refactoring"
     },
     "THEATRE_2_6": {
-        "speaker": "Sebastian Dre\u00dfler",
+        "speaker": "Alexander Hendorf",
         "tags": [
-            "Data Science",
-            "Business Track"
+            "Data Science"
         ],
-        "title": "High-Performance Ingestion with Python and Swarm64DB",
-        "slug": "high-performance-ingestion-with-python-and-swarm64db"
+        "title": "Learnings from 117 years of MIT Technology Review",
+        "slug": "learnings-from-117-years-of-mit-technology-review"
     },
     "LECTURE_2_6": {
         "speaker": "Eberhard Hansis",
@@ -319,15 +320,22 @@
         "slug": "from-java-to-python-migrating-search-functionality-at-billiger-de"
     },
     "THEATRE_2_7": {
-        "speaker": "Michael K\u00f6nig",
+        "speaker": "Gopi Suvanam",
+        "tags": [
+            "Data Science"
+        ],
+        "title": "Out-of-core Analytics Using Python",
+        "slug": "out-of-core-analytics-using-python"
+    },
+    "LECTURE_2_7": {
+        "speaker": "Gabor Guta, PhD",
         "tags": [
             "Data Science",
-            "Programming"
+            "AI"
         ],
-        "title": "Turbodbc: Turbocharged database access for data scientists",
-        "slug": "turbodbc-turbocharged-database-access-for-data-scientists"
+        "title": "When does the meaning matter?",
+        "slug": "when-does-the-meaning-matter"
     },
-    "LECTURE_2_7": {},
     "FLOOR_2_7": {
         "speaker": "Stephan Jaensch",
         "tags": [

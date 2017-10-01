@@ -47,12 +47,6 @@ In this talk you will get an overview about some awesome features of comtemporar
 While Python itself hosts a wide range of machine learning and data tools, other ecosystems like the Hadoop world also provide beneficial tools that can be either connected via Apache Parquet files or in memory using Arrow. This talks shows recent developments that allow interoperation at speed.
 
 
-# [Convolutional Methods for Text](./convolutional-methods-for-text/)
-**Tal Perry**
-
-Everyone knows the adage "Good, fast, cheap: Choose two". In this talk I'll show that with convolutions we don't have to make uncomfortable choices like that. Using convolutional neural networks we can get the same results 10x faster and with a fraction of the data. 
-
-
 # [Data Plumbing 101 - ETL Pipelines for Everyday Projects](./data-plumbing-101-etl-pipelines-for-everyday-projects/)
 **Eberhard Hansis**
 
@@ -66,7 +60,7 @@ This presentation will benefit the audience as it brings forward the practical i
 
 
 # [Data Science Project for Beginners](./data-science-project-for-beginners/)
-**Natalie Speiser & Jens Beyer**
+**Natalie Speiser,Jens Beyer**
 
 AI and Machine Learning are taking over the world - but how do you actually start with understanding your data and predicting events? And what kind of "political" trouble could you run into? With examples from real projects, we try to give you a feeling for data science projects.
 
@@ -160,6 +154,13 @@ So you’ve decoupled your code monolith into all those micro chunks. When someo
 **Alexander Bauer**
 
 For prescriptive analytics applications, data science teams need to design, build and maintain complex machine learning pipelines. In this talk, we demonstrate how such pipelines can be implemented in a robust, scalable and extensible manner using Python, Luigi, PySpark and scikit-learn.
+
+
+# [Learnings from 117 years of MIT Technology Review](./learnings-from-117-years-of-mit-technology-review/)
+**Alexander Hendorf**
+
+Is tech / IT history also just repeating itself?
+MIT Technology Review reports on important new technologies that will affect organisations, careers, our lives for 117 year now. This talks will demonstrate how to easily analyse text data with NLP, plug it into Pandas for further analytics and visualisation. 
 
 
 # [Lift your Speed Limits with Cython](./lift-your-speed-limits-with-cython/)
@@ -338,6 +339,12 @@ Python's database API 2.0 is well suited for transactional database workflows, b
 **Miroslav Šedivý**
 
 What do you use to write source code, docs, books or e-mails? Single brain, single pair of hands, single keyboard, but a different keyboard layout for each language and a different text editor for each purpose? 
+
+
+# [When does the meaning matter?](./when-does-the-meaning-matter/)
+**Gabor Guta, PhD**
+
+This presentation explains the foundation of semantic web through real world scenarios. We are going to approach the topic by explaining in which scenarios can be useful to store data in triplets instead of relation tables. Finally, we provide some pointers on how to start implementation in Python.
 
 
 # [Why Python Has Taken Over Finance](./why-python-has-taken-over-finance/)
