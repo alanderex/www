@@ -7,10 +7,13 @@ from unicodedata import normalize
 import os
 from openpyxl import load_workbook
 
+TALKS_INFO_PATH = '../pycon/talks/'
 
 _punct_re = re.compile(r'[\t !"#$%&\'()*\-/<=>?@\[\\\]^_`{|},.]+')
 _regex = re.compile('[^a-z0-9]')
-#First parameter is the replacement, second parameter is your input string
+
+
+# First parameter is the replacement, second parameter is your input string
 
 
 def slugify(text, delim=u'-'):
@@ -24,16 +27,19 @@ def slugify(text, delim=u'-'):
             result.append(word)
     return str(delim.join(result))
 
+
 def enrich(entry):
     entry["slug"] = slugify(entry["title"])
-    entry["tags_str"] = " ".join(entry["tags"][:10]) 
+    entry["tags_str"] = " ".join(entry["tags"][:10])
     return entry
 
-#data = json.load(open("submissions.json"))
-data = json.load(open("speakers_accepted.json"))
+
+# data = json.load(open("submissions.json"))
+data = json.load(open(os.path.join(TALKS_INFO_PATH, "speakers_accepted.json")))
 data = list(filter(lambda entry: entry["state"] == "accepted", data))
 data = list(map(enrich, data))
 data.sort(key=lambda entry: entry["title"])
+
 
 # for d in data:
 #     if d['slug'] == 'an-introduction-to-pymc3':
@@ -54,7 +60,6 @@ def get_talk(speaker):
     for d in data:
         if d["name"] == speaker:
             return d
-
 
 
 tpl = """_model: page_markdown
@@ -91,7 +96,6 @@ body:
 
 """
 
-
 tpl_index = """_model: page_markdown
 ---
 title: {{kind|capitalize}}
@@ -110,14 +114,15 @@ body:
 template = Template(tpl)
 template_index = Template(tpl_index)
 
-tutorials = ['practical-data-cleaning-101', 
+tutorials = ['practical-data-cleaning-101',
              'machine-learning-as-a-service',
-            'metaclasses-when-to-use-and-when-not-to-use',
-            'network-analysis-using-python',
-            'topic-modelling-and-a-lot-more-with-nlp-framework-gensim',
-            'python-on-bare-metal-beginners-tutorial-with-micropython-on-the-pyboard',
-            'how-to-fund-your-company'
-            ]
+             'machine-learning-as-a-service',
+             'metaclasses-when-to-use-and-when-not-to-use',
+             'network-analysis-using-python',
+             'topic-modelling-and-a-lot-more-with-nlp-framework-gensim',
+             'python-on-bare-metal-beginners-tutorial-with-micropython-on-the-pyboard',
+             'how-to-fund-your-company'
+             ]
 
 
 def dump(entry, kind='tutorials'):
@@ -133,16 +138,17 @@ def gen():
     d = filter(lambda entry: entry["slug"] in tutorials, data)
     with open('pyconde/content/schedule/tutorials/contents.lr', 'w') as f:
         f.write(template_index.render(kind="tutorials", data=d))
-    
+
     d = filter(lambda entry: entry["slug"] not in tutorials, data)
     with open('pyconde/content/schedule/talks/contents.lr', 'w') as f:
         f.write(template_index.render(kind="talks", data=d))
 
     for entry in filter(lambda entry: entry["slug"] in tutorials, data):
         dump(entry)
-        #print(template.render(entry))
+        # print(template.render(entry))
     for entry in filter(lambda entry: entry["slug"] not in tutorials, data):
         dump(entry, kind='talks')
+
 
 def bada():
     tpl = """#PyConDE Talk @{twitter}:
@@ -159,50 +165,53 @@ def parse(s):
         return {}
     first, speaker = s.split("[[")
     speaker = speaker.rstrip("]")
-    tags = first.rsplit('(',1)[1].rstrip(")")
+    tags = first.rsplit('(', 1)[1].rstrip(")")
     tags = [x.strip() for x in tags.split("|") if x.strip() and x.strip() != "Other"]
-    if speaker == "adrian.seyboldt@gmail.com":
-        speaker = 'Adrian Seyboldt'
-    elif speaker == "atavory@gmail.com":
-        speaker = 'Ami Tavory'
+    # below moved to ipynb updates
+    # if speaker == "adrian.seyboldt@gmail.com":
+    #     speaker = 'Adrian Seyboldt'
+    # elif speaker == "atavory@gmail.com":
+    #     speaker = 'Ami Tavory'
 
     talk = get_talk(speaker)
 
-    
     if talk is None:
         print(speaker)
         talk = {"title": "FIXE", "slug": "FIXME"}
     return {"speaker": speaker, "tags": tags, "title": talk["title"], "slug": talk["slug"]}
 
+
 def gen_schedule_databag():
-    wb = load_workbook('schedule.xlsx')
+    wb = load_workbook(os.path.join(TALKS_INFO_PATH, 'schedule.xlsx'))
     sheet = wb['Sheet1']
 
-    d1 = [2,3,5,6,8,9]
-    d2 = [11,12,13,15,16,18,19]
-    d3 = [21,22,23,25,26]
+    d1 = [2, 3, 5, 6, 8, 9]
+    d2 = [11, 12, 13, 15, 16, 18, 19]
+    d3 = [21, 22, 23, 25, 26]
     talks = {}
-    for day, rows in enumerate([d1,d2,d3]):
+    for day, rows in enumerate([d1, d2, d3]):
         for row_nr, row in enumerate(rows):
-            key = "THEATRE_{}_{}".format(day+1,row_nr+1)
-            value = sheet["C{}".format(row)].value
-            talks[key] = parse(value)
-            
-            key = "LECTURE_{}_{}".format(day+1,row_nr+1)
-            value = sheet["E{}".format(row)].value
-            talks[key] = parse(value)
+            try:
+                key = "THEATRE_{}_{}".format(day + 1, row_nr + 1)
+                value = sheet["C{}".format(row)].value
+                talks[key] = parse(value)
 
+                key = "LECTURE_{}_{}".format(day + 1, row_nr + 1)
+                value = sheet["E{}".format(row)].value
+                talks[key] = parse(value)
 
-            key = "FLOOR_{}_{}".format(day+1,row_nr+1)
-            value = sheet["B{}".format(row)].value
-            talks[key] = parse(value)
+                key = "FLOOR_{}_{}".format(day + 1, row_nr + 1)
+                value = sheet["B{}".format(row)].value
+                talks[key] = parse(value)
+            except Exception as e:
+                pass  # just for dedugging
 
     json.dump(talks, open("pyconde/databags/talks.json", "w"), indent=4)
 
     tutorials = {}
-    for day, rows in enumerate([[2,5,8],[11,15,18],[21,25]]):
+    for day, rows in enumerate([[2, 5, 8], [11, 15, 18], [21, 25]]):
         for row_nr, row in enumerate(rows):
-            key = "MUSEUM_{}_{}".format(day+1,row_nr+1)
+            key = "MUSEUM_{}_{}".format(day + 1, row_nr + 1)
             value = sheet["D{}".format(row)].value
             tutorials[key] = parse(value)
     json.dump(tutorials, open("pyconde/databags/tutorials.json", "w"), indent=4)
@@ -211,9 +220,11 @@ def gen_schedule_databag():
 def main(args=None):
     if args is None:
         args = sys.argv
-    gen() 
-    #bada() 
-    gen_schedule_databag() 
+    gen()
+    # bada()
+    gen_schedule_databag()
+
 
 if __name__ == "__main__":
+    # make sure TALKS_INFO_PATH is set to a relative path
     main()

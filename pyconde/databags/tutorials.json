@@ -8,6 +8,14 @@
         "slug": "machine-learning-as-a-service"
     },
     "MUSEUM_1_2": {
+        "speaker": "Anand Chitipothu",
+        "tags": [
+            "Data Science"
+        ],
+        "title": "Machine Learning as a Service",
+        "slug": "machine-learning-as-a-service"
+    },
+    "MUSEUM_1_3": {
         "speaker": "Mridul Seth",
         "tags": [
             "Data Science",
@@ -16,7 +24,6 @@
         "title": "Network Analysis using Python",
         "slug": "network-analysis-using-python"
     },
-    "MUSEUM_1_3": {},
     "MUSEUM_2_1": {
         "speaker": "Katharine Jarmul",
         "tags": [
