@@ -2,8 +2,9 @@
     "THEATRE_1_1": {
         "speaker": "Alex Conway",
         "tags": [
+            "PyData",
             "Data Science",
-            "Business Track"
+            "Business"
         ],
         "title": "Deep Learning for Computer Vision",
         "slug": "deep-learning-for-computer-vision"
@@ -19,6 +20,7 @@
     "FLOOR_1_1": {
         "speaker": "Kajal Puri",
         "tags": [
+            "PyData",
             "Data Science",
             "Web",
             "Programming"
@@ -29,6 +31,7 @@
     "THEATRE_1_2": {
         "speaker": "Tamara Mendt",
         "tags": [
+            "PyData",
             "Data Science"
         ],
         "title": "Modern ETL-ing with Python and Airflow (and Spark)",
@@ -38,7 +41,7 @@
         "speaker": "Axel Arnold",
         "tags": [
             "Programming",
-            "Business Track"
+            "Business"
         ],
         "title": "And now to something ELSE: Real Time Data Processing @ billiger.de",
         "slug": "and-now-to-something-else-real-time-data-processing-billiger-de"
@@ -46,9 +49,10 @@
     "FLOOR_1_2": {
         "speaker": "Joey Faulkner",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming",
-            "Business Track"
+            "Business"
         ],
         "title": "Rasa: open source conversational AI to build next generation chatbots",
         "slug": "rasa-open-source-conversational-ai-to-build-next-generation-chatbots"
@@ -56,6 +60,7 @@
     "THEATRE_1_3": {
         "speaker": "Daniel Jilg",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming"
         ],
@@ -73,6 +78,7 @@
     "FLOOR_1_3": {
         "speaker": "Dr. Hendrik Niemeyer",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming"
         ],
@@ -82,6 +88,7 @@
     "THEATRE_1_4": {
         "speaker": "Samuel Mu\u00f1oz Hidalgo | BEEVA",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming"
         ],
@@ -100,6 +107,7 @@
     "FLOOR_1_4": {
         "speaker": "Thuy Le",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming"
         ],
@@ -109,9 +117,10 @@
     "THEATRE_1_5": {
         "speaker": "Natalie Speiser,Jens Beyer",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming",
-            "Business Track"
+            "Business"
         ],
         "title": "Data Science Project for Beginners",
         "slug": "data-science-project-for-beginners"
@@ -127,6 +136,7 @@
     "FLOOR_1_5": {
         "speaker": "Heidi Thorpe",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming"
         ],
@@ -136,9 +146,10 @@
     "THEATRE_1_6": {
         "speaker": "Dr. Andreas Schilling",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming",
-            "Business Track"
+            "Business"
         ],
         "title": "Master 2.5 GB of unstructured specification documents with ease",
         "slug": "master-2-5-gb-of-unstructured-specification-documents-with-ease"
@@ -155,6 +166,7 @@
     "FLOOR_1_6": {
         "speaker": "Florian Th\u00f6le",
         "tags": [
+            "PyData",
             "Data Science"
         ],
         "title": "Theoretical physics with sympy",
@@ -163,6 +175,7 @@
     "THEATRE_2_1": {
         "speaker": "Carsten Pohl",
         "tags": [
+            "PyData",
             "Web",
             "Data Science",
             "Programming"
@@ -181,6 +194,7 @@
     "FLOOR_2_1": {
         "speaker": "Uwe L. Korn",
         "tags": [
+            "PyData",
             "Data Science"
         ],
         "title": "Connecting PyData to other Big Data Landscapes using Arrow and Parquet",
@@ -189,9 +203,10 @@
     "THEATRE_2_2": {
         "speaker": "Yves Hilpisch",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming",
-            "Business Track"
+            "Business"
         ],
         "title": "Why Python Has Taken Over Finance",
         "slug": "why-python-has-taken-over-finance"
@@ -207,6 +222,7 @@
     "FLOOR_2_2": {
         "speaker": "Alexander Bauer",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming"
         ],
@@ -216,6 +232,7 @@
     "THEATRE_2_3": {
         "speaker": "Pieter Mulder",
         "tags": [
+            "PyData",
             "Web",
             "Programming",
             "Data Science"
@@ -234,6 +251,7 @@
     "FLOOR_2_3": {
         "speaker": "Nils Braun",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming"
         ],
@@ -243,8 +261,9 @@
     "THEATRE_2_4": {
         "speaker": "Sebastian Dre\u00dfler",
         "tags": [
+            "PyData",
             "Data Science",
-            "Business Track"
+            "Business"
         ],
         "title": "High-Performance Ingestion with Python and Swarm64DB",
         "slug": "high-performance-ingestion-with-python-and-swarm64db"
@@ -260,6 +279,7 @@
     "FLOOR_2_4": {
         "speaker": "Adrian Seyboldt",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming"
         ],
@@ -269,6 +289,7 @@
     "THEATRE_2_5": {
         "speaker": "Michael K\u00f6nig",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming"
         ],
@@ -279,7 +300,7 @@
         "speaker": "Bjoern Meier",
         "tags": [
             "DevOps",
-            "Business Track"
+            "Business"
         ],
         "title": "No Compromise: Use Ansible properly or stick to your scripts",
         "slug": "no-compromise-use-ansible-properly-or-stick-to-your-scripts"
@@ -297,6 +318,7 @@
     "THEATRE_2_6": {
         "speaker": "Alexander Hendorf",
         "tags": [
+            "PyData",
             "Data Science"
         ],
         "title": "Learnings from 117 years of MIT Technology Review",
@@ -305,8 +327,9 @@
     "LECTURE_2_6": {
         "speaker": "Eberhard Hansis",
         "tags": [
+            "PyData",
             "Data Science",
-            "Business Track"
+            "Business"
         ],
         "title": "Data Plumbing 101 - ETL Pipelines for Everyday Projects",
         "slug": "data-plumbing-101-etl-pipelines-for-everyday-projects"
@@ -322,6 +345,7 @@
     "THEATRE_2_7": {
         "speaker": "Gopi Suvanam",
         "tags": [
+            "PyData",
             "Data Science"
         ],
         "title": "Out-of-core Analytics Using Python",
@@ -330,6 +354,7 @@
     "LECTURE_2_7": {
         "speaker": "Gabor Guta, PhD",
         "tags": [
+            "PyData",
             "Data Science",
             "AI"
         ],
@@ -347,6 +372,7 @@
     "THEATRE_3_1": {
         "speaker": "David Dao",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming"
         ],
@@ -372,9 +398,10 @@
     "THEATRE_3_2": {
         "speaker": "Yasir Khan",
         "tags": [
+            "PyData",
             "Programming",
             "Data Science",
-            "Business Track"
+            "Business"
         ],
         "title": "Data Science Best Practices : From Proof of Concepts to Production",
         "slug": "data-science-best-practices-from-proof-of-concepts-to-production"
@@ -382,7 +409,7 @@
     "LECTURE_3_2": {
         "speaker": "Ansgar Schmidt",
         "tags": [
-            "Business Track",
+            "Business",
             "Web",
             "Programming"
         ],
@@ -401,6 +428,7 @@
     "THEATRE_3_3": {
         "speaker": "Ami Tavory",
         "tags": [
+            "PyData",
             "Data Science",
             "Programming"
         ],
@@ -437,7 +465,7 @@
         "speaker": "Jens Nie,Andre Lengwenus",
         "tags": [
             "Programming",
-            "Business Track"
+            "Business"
         ],
         "title": "Empowered by Python - A success story",
         "slug": "empowered-by-python-a-success-story"
@@ -445,6 +473,7 @@
     "FLOOR_3_4": {
         "speaker": "Dominik Benz",
         "tags": [
+            "PyData",
             "Data Science"
         ],
         "title": "Flow is in the Air: Best Practices of Building Analytical Data Pipelines with Apache Airflow",
@@ -462,7 +491,7 @@
     "LECTURE_3_5": {
         "speaker": "Christoph Heer",
         "tags": [
-            "Business Track",
+            "Business",
             "Programming"
         ],
         "title": "Automated testing with 400TB memory",
@@ -471,6 +500,7 @@
     "FLOOR_3_5": {
         "speaker": "Florian Rhiem",
         "tags": [
+            "PyData",
             "Data Science"
         ],
         "title": "Integrating Jupyter Notebooks into your Infrastructure",
