@@ -58,7 +58,7 @@ data.sort(key=lambda entry: entry["title"])
 
 def get_talk(speaker):
     for d in data:
-        if d["name"] == speaker:
+        if d["name"] == speaker.replace(', ', ','):
             return d
 
 
@@ -164,7 +164,7 @@ def parse(s):
     if "available" in s:
         return {}
     first, speaker = s.split("[[")
-    speaker = speaker.rstrip("]")
+    speaker = speaker.rstrip("]").replace(',', ', ')  # , seperates multiple speakers
     tags = first.rsplit('(', 1)[1].rstrip(")")
     tags = [x.strip() for x in tags.split("|") if x.strip() and x.strip() != "Other"]
     tags = [t.replace('Business Track', 'Business') for t in tags]
@@ -175,7 +175,7 @@ def parse(s):
 
     if talk is None:
         print(speaker)
-        talk = {"title": "FIXE", "slug": "FIXME"}
+        talk = {"title": "FIXME", "slug": "FIXME"}
     return {"speaker": speaker, "tags": tags, "title": talk["title"], "slug": talk["slug"]}
 
 

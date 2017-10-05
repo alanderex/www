@@ -115,7 +115,7 @@
         "slug": "sport-analysis-with-python"
     },
     "THEATRE_1_5": {
-        "speaker": "Natalie Speiser,Jens Beyer",
+        "speaker": "Natalie Speiser, Jens Beyer",
         "tags": [
             "PyData",
             "Data Science",
@@ -212,12 +212,13 @@
         "slug": "why-python-has-taken-over-finance"
     },
     "LECTURE_2_2": {
-        "speaker": "Dave Halter",
+        "speaker": "Jens Nie, Peer Wagner",
         "tags": [
-            "Programming"
+            "Programming",
+            "Business"
         ],
-        "title": "Python is Weird",
-        "slug": "python-is-weird"
+        "title": "Empowered by Python - A success story",
+        "slug": "empowered-by-python-a-success-story"
     },
     "FLOOR_2_2": {
         "speaker": "Alexander Bauer",
@@ -352,7 +353,7 @@
         "slug": "out-of-core-analytics-using-python"
     },
     "LECTURE_2_7": {
-        "speaker": "Gabor Guta, PhD",
+        "speaker": "Gabor Guta,  PhD",
         "tags": [
             "PyData",
             "Data Science",
@@ -380,7 +381,7 @@
         "slug": "really-deep-neural-networks-with-pytorch"
     },
     "LECTURE_3_1": {
-        "speaker": "Thomas Reifenberger,Martin Foertsch",
+        "speaker": "Thomas Reifenberger, Martin Foertsch",
         "tags": [
             "Programming"
         ],
@@ -462,13 +463,12 @@
         "slug": "the-snake-in-the-tar-pit-complex-systems-with-python"
     },
     "LECTURE_3_4": {
-        "speaker": "Jens Nie,Andre Lengwenus",
+        "speaker": "Dave Halter",
         "tags": [
-            "Programming",
-            "Business"
+            "Programming"
         ],
-        "title": "Empowered by Python - A success story",
-        "slug": "empowered-by-python-a-success-story"
+        "title": "Python is Weird",
+        "slug": "python-is-weird"
     },
     "FLOOR_3_4": {
         "speaker": "Dominik Benz",
