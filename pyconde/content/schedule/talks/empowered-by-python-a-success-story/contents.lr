@@ -6,7 +6,7 @@ head_extra:
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@pyconde" />
-<meta name="twitter:title" content="Jens Nie,Andre Lengwenus: Empowered by Python - A success story" />
+<meta name="twitter:title" content="Jens Nie,Peer Wagner: Empowered by Python - A success story" />
 <meta name="twitter:description" content="Introducing a new programming language in a company is always a daring task, usually involving a lot of effort and the will for change.
 
 We&#39;d like to take you on a journey reflecting eight years of challenges, solutions and success ending in a best practice guide helping you to achieve the same." />
@@ -17,7 +17,7 @@ body:
 # Empowered by Python - A success story
 <div class="avatar">
 ![](https://secure.gravatar.com/avatar/dc72d6fd51a6e6adb20592edf8e3c480?s=500)
-**[Jens Nie,Andre Lengwenus]()** ([@jneines](http://twitter.com/jneines))
+**[Jens Nie,Peer Wagner]()** ([@jneines](http://twitter.com/jneines))
 
 
 Jens works primarily as a Technology Scout focusing on Big Data and Data Science at the ROSEN Technology & Research Center in Lingen, Germany. In this role he screens for latest developments in these areas and evaluates and demonstrates their possible use and benefit for the company. Looking back to more than 20 years in using Python and Linux, he considers him to be an Open Source enthusiast and committed Python advocate.
