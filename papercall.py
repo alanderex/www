@@ -57,9 +57,11 @@ data.sort(key=lambda entry: entry["title"])
 
 
 def get_talk(speaker):
+    speaker = speaker.replace(',  PhD', '')
     for d in data:
-        if d["name"] == speaker.replace(', ', ','):
+        if d["name"] == speaker.replace(', ', ','):  # pdh = workaround/hotfix
             return d
+    return
 
 
 tpl = """_model: page_markdown
@@ -202,7 +204,7 @@ def gen_schedule_databag():
                 value = sheet["B{}".format(row)].value
                 talks[key] = parse(value)
             except Exception as e:
-                pass  # just for dedugging
+                pass  # just for debugging
 
     json.dump(talks, open("pyconde/databags/talks.json", "w"), indent=4)
 

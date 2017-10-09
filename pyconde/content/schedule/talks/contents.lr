@@ -194,12 +194,6 @@ What you do in Ansible should be clean an simple. What we did was not.
 So I will show what we did wrong but also what we have changed or still have to, to make our life easier again. But I will also show how we progressively utilize Ansible to deploy our Data Science infrastructure.
 
 
-# [Out-of-core Analytics Using Python](./out-of-core-analytics-using-python/)
-**Gopi Suvanam**
-
-Most analytics packages in Python store data and perform analysis/modeling in the memory. This puts a limitation on the use of packages for data that does not fit in memory. We propose an architecture using column-stores on the disc and of out-of-core processing in Python to circumvent this problem.
-
-
 # [Platform intrusion detection with deep learning](./platform-intrusion-detection-with-deep-learning/)
 **Carsten Pohl**
 
@@ -261,6 +255,20 @@ Soon you will primarily communicate with your computer through conversation. At 
 **David Dao**
 
 Modern neural networks have hundreds of layers! How can we train such deep networks? Simply stacking layers on top doesn't work! This talk introduces the deep learning library PyTorch by explaining the exciting math, cool ideas and simple code behind what makes really deep neural networks work.
+
+
+# [Simple Data Engineering in python 3.5+ with Bonobo](./simple-data-engineering-in-python-3-5-with-bonobo/)
+**Romain Dorgueil**
+
+Simple is better than complex, and that's True for data pipelines, too.
+
+Bonobo is a python 3.5+ tool used to write and monitor data pipelines.
+It’s plain, simple, modern, and atomic python.
+
+This talk is a practical encounter, from zero to a complete data pipeline.
+
+Spoiler : no «big data» here.
+
 
 
 # [Sport analysis with Python](./sport-analysis-with-python/)
@@ -342,7 +350,7 @@ What do you use to write source code, docs, books or e-mails? Single brain, sing
 
 
 # [When does the meaning matter?](./when-does-the-meaning-matter/)
-**Gabor Guta, PhD**
+**Gabor Guta**
 
 This presentation explains the foundation of semantic web through real world scenarios. We are going to approach the topic by explaining in which scenarios can be useful to store data in triplets instead of relation tables. Finally, we provide some pointers on how to start implementation in Python.
 
