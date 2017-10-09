@@ -231,15 +231,13 @@
         "slug": "large-scale-machine-learning-pipelines-using-luigi-pyspark-and-scikit-learn"
     },
     "THEATRE_2_3": {
-        "speaker": "Pieter Mulder",
+        "speaker": "Romain Dorgueil",
         "tags": [
             "PyData",
-            "Web",
-            "Programming",
             "Data Science"
         ],
-        "title": "How efficient is your public transport network? A data-driven approach using Geopandas and GTFS",
-        "slug": "how-efficient-is-your-public-transport-network-a-data-driven-approach-using-geopandas-and-gtfs"
+        "title": "Simple Data Engineering in python 3.5+ with Bonobo",
+        "slug": "simple-data-engineering-in-python-3-5-with-bonobo"
     },
     "LECTURE_2_3": {
         "speaker": "Anne Matthies",
@@ -344,13 +342,15 @@
         "slug": "from-java-to-python-migrating-search-functionality-at-billiger-de"
     },
     "THEATRE_2_7": {
-        "speaker": "Gopi Suvanam",
+        "speaker": "Pieter Mulder",
         "tags": [
             "PyData",
+            "Web",
+            "Programming",
             "Data Science"
         ],
-        "title": "Out-of-core Analytics Using Python",
-        "slug": "out-of-core-analytics-using-python"
+        "title": "How efficient is your public transport network? A data-driven approach using Geopandas and GTFS",
+        "slug": "how-efficient-is-your-public-transport-network-a-data-driven-approach-using-geopandas-and-gtfs"
     },
     "LECTURE_2_7": {
         "speaker": "Gabor Guta,  PhD",

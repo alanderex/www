@@ -2,6 +2,22 @@ _model: page_markdown
 ---
 title: Simple Data Engineering in python 3.5+ with Bonobo
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="Romain Dorgueil: Simple Data Engineering in python 3.5+ with Bonobo" />
+<meta name="twitter:description" content="Simple is better than complex, and that&#39;s True for data pipelines, too.
+
+Bonobo is a python 3.5+ tool used to write and monitor data pipelines.
+It’s plain, simple, modern, and atomic python.
+
+This talk is a practical encounter, from zero to a complete data pipeline.
+
+Spoiler : no «big data» here.
+" />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 # Simple Data Engineering in python 3.5+ with Bonobo
