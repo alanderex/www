@@ -343,16 +343,18 @@ In this case you really should consider using the time series feature extraction
 Python's database API 2.0 is well suited for transactional database workflows, but not so much for column-heavy data science. This talk explains how the ODBC-based turbodbc database module extends this API with first-class, efficient support for familiar NumPy and Apache Arrow data structures.
 
 
+# [Verified fakes with OpenAPI](./verified-fakes-with-openapi/)
+**Lauris Jullien**
+
+It can be hard to test code that depends on external services. Often such services are mocked, but with time, it can be challenging to keep these mocks up to date.
+Verified fakes can solve this problem, and we will see how to set them up using OpenAPI and python.
+
+
+
 # [Vim your Python, Python your Vim](./vim-your-python-python-your-vim/)
 **Miroslav Šedivý**
 
 What do you use to write source code, docs, books or e-mails? Single brain, single pair of hands, single keyboard, but a different keyboard layout for each language and a different text editor for each purpose? 
-
-
-# [When does the meaning matter?](./when-does-the-meaning-matter/)
-**Gabor Guta**
-
-This presentation explains the foundation of semantic web through real world scenarios. We are going to approach the topic by explaining in which scenarios can be useful to store data in triplets instead of relation tables. Finally, we provide some pointers on how to start implementation in Python.
 
 
 # [Why Python Has Taken Over Finance](./why-python-has-taken-over-finance/)
