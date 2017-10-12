@@ -353,14 +353,12 @@
         "slug": "how-efficient-is-your-public-transport-network-a-data-driven-approach-using-geopandas-and-gtfs"
     },
     "LECTURE_2_7": {
-        "speaker": "Gabor Guta,  PhD",
+        "speaker": "Lauris Jullien",
         "tags": [
-            "PyData",
-            "Data Science",
-            "AI"
+            "Web"
         ],
-        "title": "When does the meaning matter?",
-        "slug": "when-does-the-meaning-matter"
+        "title": "Verified fakes with OpenAPI",
+        "slug": "verified-fakes-with-openapi"
     },
     "FLOOR_2_7": {
         "speaker": "Stephan Jaensch",
