@@ -26,20 +26,6 @@ body:
 </ul>
 			    </div>
                 <div class="blog-post">
-                    <h2 id="michael-feindt">Prof. Dr. Michael Feindt </h2>
-
-                <img src="../../files/michael_feindt.jpg" alt="Michael Feindt" width="200px"/>
-                <p>
-Prof. Dr. Michael Feindt is the brain behind Blue Yonder. His NeuroBayes algorithm was developed during his many years of scientific research at CERN. Michael is also a professor at the Karlsruhe Institute of Technology (KIT), Germany, and a lecturer at the Data Science Academy.
-
-                </p>
-<ul style="margin-left:20px">
-    <li>
-                    <a href="https://www.blue-yonder.com">Blue Yonder GmbH</a>
-    </li>
-</ul>
-			    </div>
-                <div class="blog-post">
                 <h2 id="matthew-rocklin">Matthew Rocklin</h2>
                 <p>
                 <img src="../../files/matthew-rocklin.jpg" alt="Matthew Rocklin" />
@@ -57,6 +43,20 @@ Website: <a href="http://matthewrocklin.com">http://matthewrocklin.com</a>
 Blog: <a href="http://matthewrocklin.com/blog">http://matthewrocklin.com/blog</a> </li>
 <li>
 Dask: <a href="http://dask.pydata.org/">http://dask.pydata.org/</a></li>
+</ul>
+			    </div>
+                <div class="blog-post">
+                    <h2 id="michael-feindt">Prof. Dr. Michael Feindt </h2>
+
+                <img src="../../files/michael_feindt.jpg" alt="Michael Feindt" width="200px"/>
+                <p>
+Prof. Dr. Michael Feindt is the brain behind Blue Yonder. His NeuroBayes algorithm was developed during his many years of scientific research at CERN. Michael is also a professor at the Karlsruhe Institute of Technology (KIT), Germany, and a lecturer at the Data Science Academy.
+
+                </p>
+<ul style="margin-left:20px">
+    <li>
+                    <a href="https://www.blue-yonder.com">Blue Yonder GmbH</a>
+    </li>
 </ul>
 			    </div>
 			</div>
