@@ -416,13 +416,12 @@
         "slug": "python-with-apache-openwhisk"
     },
     "FLOOR_3_2": {
-        "speaker": "Raphael Michel",
+        "speaker": "Niklas Meinzer",
         "tags": [
-            "Web",
-            "Programming"
+            "Testing"
         ],
-        "title": "Plugin ecosystems for Python web-applications",
-        "slug": "plugin-ecosystems-for-python-web-applications"
+        "title": "Testing in Python - The Big Picture",
+        "slug": "testing-in-python-the-big-picture"
     },
     "THEATRE_3_3": {
         "speaker": "Ami Tavory",
