@@ -284,6 +284,13 @@ In this talk I will show how we use real and synthetic data to create successful
 Ever stumbled upon poorly-maintained codebases that suck away your productivity? Fear no more! This talk addresses how to identify code smell (from Brie to Bleu cheese) and go through examples to refactor code and APIs. You will learn the art of writing clean, maintainable and idiomatic Python code.
 
 
+# [Testing in Python - The Big Picture](./testing-in-python-the-big-picture/)
+**Niklas Meinzer**
+
+Everybody talks about testing, but not everyone know it inside-out.
+In this talk I will paint the big picture of testing in Python. We will talk about test runners, testing strategies, tools to make life easier and finally touch on some more exotic concepts.
+
+
 # [The BorgBackup Project](./the-borgbackup-project/)
 **Thomas Waldmann**
 
