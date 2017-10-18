@@ -81,7 +81,7 @@ body:
                 <blockquote>PyData brings together both users and developers of data analysis tools to share ideas and learn from each other. The goals are to provide data science enthusiasts, across various domains, a place to discuss how best to apply languages and tools to the challenges of data management, processing, analytics, and visualization. </blockquote>
         </div>
         <div class="col-lg-6">
-            <a class="twitter-timeline" href="https://twitter.com/hashtag/PyConDE" data-widget-id="920767599977418753">#PyConDE Tweets</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            <a class="twitter-timeline" data-height="1000" href="https://twitter.com/PyConDE?ref_src=twsrc%5Etfw">Tweets by PyConDE</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
         </div>
 
