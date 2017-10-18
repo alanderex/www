@@ -63,8 +63,6 @@ body:
                <li>Academic Scientist</li>
                <li>Technology Enthusiast</li>
            </ul>
-        </div>
-        <div class="col-lg-6">
            <p>PyCon.DE 2017 will be held at the <a href="./venue/">Center for Art and
                Media</a> in Karlsruhe. Karlsruhe as a city and a decisive IT region
             in the south-west of Germany and the ZKM as a venue represent a
@@ -78,16 +76,13 @@ body:
             into the <a href="https://www.cyberforum.de">cyberforum</a> IT company network and is part of a "software cluster"
             recognized and sponsored by the federal government.</p>
             </p>
-        </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-10">
-                    <p>The conference will include a <a href="http://pydata.org">PyData</a> track:</p>
-                <blockquote>PyData brings together both users and developers of data analysis tools to share ideas and learn from each other. The goals are to provide data science enthusiasts, across various domains, a place to discuss how best to apply languages and tools to the challenges of data management, processing, analytics, and visualization. </blockquote>
-            </div>
-            <div class="col-md-2">
                <a href="http://pydata.org"><img src="files/pydata-logo.png" class="logo"></a>
-            </div>
+            <p>The conference will include a <a href="http://pydata.org">PyData</a> track:</p>
+                <blockquote>PyData brings together both users and developers of data analysis tools to share ideas and learn from each other. The goals are to provide data science enthusiasts, across various domains, a place to discuss how best to apply languages and tools to the challenges of data management, processing, analytics, and visualization. </blockquote>
+        </div>
+        <div class="col-lg-6">
+            <a class="twitter-timeline" href="https://twitter.com/hashtag/PyConDE" data-widget-id="920767599977418753">#PyConDE Tweets</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </div>
         </div>
 
             <hr/>
