@@ -84,6 +84,12 @@ body:
             <a class="twitter-timeline" data-height="1000" href="https://twitter.com/PyConDE?ref_src=twsrc%5Etfw">Tweets by PyConDE</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
         </div>
+        <div class="row">
+           <div class="col-lg-12">
+
+<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/cfc3fcced7c45292bfb7ac12b650c216.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+           </div>
+        </div>
 
             <hr/>
         <div class="section-content">
