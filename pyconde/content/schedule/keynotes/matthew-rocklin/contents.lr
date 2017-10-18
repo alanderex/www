@@ -1,0 +1,41 @@
+_model: page
+---
+title: Keynote Matthew Rocklin
+---
+body:
+
+<!-- MAIN CONTENT -->
+<div id="main-content" class="main-content">
+
+    <!-- VENUE -->
+    <div id="venue" class="section about">
+        <div class="container">
+            <div class="section-heading">
+                <h2>Keynotes</h2>
+            </div>
+            <div class="section-content">
+                <div class="blog-post">
+                <h2 id="matthew-rocklin">Matthew Rocklin</h2>
+                <p>
+                <img src="../../../files/matthew-rocklin.jpg" alt="Matthew Rocklin" />
+
+Matthew is an open source software developer focusing on efficient computation and parallel computing, primarily within the Python ecosystem. He has contributed to many of the PyData libraries and today works on Dask a framework for parallel computing. Matthew holds a PhD in computer science from the University of Chicago where he focused on numerical linear algebra, task scheduling, and computer algebra.
+</p>
+<p>
+Matthew lives in Brooklyn, NY and is employed by Anaconda Inc.
+</p>
+<ul style="margin-left:20px">
+<li>
+Website: <a href="http://matthewrocklin.com">http://matthewrocklin.com</a>
+</li>
+<li>
+Blog: <a href="http://matthewrocklin.com/blog">http://matthewrocklin.com/blog</a> </li>
+<li>
+Dask: <a href="http://dask.pydata.org/">http://dask.pydata.org/</a></li>
+</ul>
+			    </div>
+			</div>
+	    </div>
+	</div>
+</div>
+<!-- END MAIN CONTENT -->
