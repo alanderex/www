@@ -2,6 +2,14 @@ _model: page
 ---
 title: Keynote Matthew Rocklin
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="PyConDE 2017 Keynote: Matthew Rocklin" />
+<meta name="twitter:description" content="Matthew is an open source software developer focusing on efficient computation and parallel computing, primarily within the Python ecosystem. He has contributed to many of the PyData libraries and today works on Dask a framework for parallel computing." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 <!-- MAIN CONTENT -->
