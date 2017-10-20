@@ -25,7 +25,7 @@ He is a contributor to popular machine intelligence frameworks such as TensorFlo
 </div>
 ## Abstract
 
-*Tags:* deep learning ai machine learning python autonomous-driving deep learning ai machine learning python autonomous-driving
+*Tags:* deep learning ai machine learning python autonomous-driving pytorch
 
 Modern neural networks have hundreds of layers! How can we train such deep networks? Simply stacking layers on top doesn't work! This talk introduces the deep learning library PyTorch by explaining the exciting math, cool ideas and simple code behind what makes really deep neural networks work.
 

@@ -9,15 +9,17 @@
 <html lang="en" class="no-js"> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>PyCon.DE 2017 No Compromise: Use Ansible properly or stick to your scripts</title>
+    <title>PyCon.DE 2017 Observing your applications with Sentry and Prometheus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="description" content="PyCon.DE 2017 Karlsruhe - is the traditional meeting point for people who work and play with Python. Hosted in Germany and held in the English language, the conference welcomes Python professionals and enthusiasts from Central Europe and around the world.">
     <meta name="author" content="PyCon.DE">
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@pyconde" />
-<meta name="twitter:title" content="Bjoern Meier: No Compromise: Use Ansible properly or stick to your scripts" />
-<meta name="twitter:description" content="What you do in Ansible should be clean an simple. What we did was not.
-So I will show what we did wrong but also what we have changed or still have to, to make our life easier again. But I will also show how we progressively utilize Ansible to deploy our Data Science infrastructure." />
+<meta name="twitter:title" content="Patrick Mühlbauer: Observing your applications with Sentry and Prometheus" />
+<meta name="twitter:description" content="If you have services running in production, something will fail sooner or later.
+We cannot avoid this completely, but we can prepare for it.
+In this talk we will have a look at how Sentry and Prometheus can help to get
+better insight into our systems to quickly track down the cause of failure." />
 <meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
     <!-- Styles -->
     <link href="../../../assets/css/bootstrap.css?h=bc7d127a" rel="stylesheet">
@@ -109,22 +111,42 @@ So I will show what we did wrong but also what we have changed or still have to,
             <div class="section-content">
             <!-- place this where you want the widget to appear -->
             <div class="row blog-content">
-                <h1>No Compromise: Use Ansible properly or stick to your scripts</h1>
+                <h1>Observing your applications with Sentry and Prometheus</h1>
 <p><div class="avatar">
-<img src="https://secure.gravatar.com/avatar/e6c1124e9554d1081b2ac34172563d51?s=500" alt="">
-<strong><a href="../../../schedule/talks/no-compromise-use-ansible-properly-or-stick-to-your-scripts/">Bjoern Meier</a></strong></p>
-<p>Bjoern is a software engineer at Blue Yonder GmbH since 2016 after graduating in Computer Science.
-More correctly you could say he is a DevOps engineer at Blue Yonder where he is developing and operating - among other things - the services for the external data interfaces, preprocessing and data storage to enable the data scientists to run their prediction models.
-He loves the versatility and ecosystem of python to write e.g. production web apps, data analysis tools or operational scripts.
-If there was more free time he would like to spent it to dive deeper into functional programming languages like elixir to have a different view on things.
+<img src="https://secure.gravatar.com/avatar/1298f88cba54c3d1a5e8fc05ddea6d95?s=500" alt="">
+<strong><a href="../../../schedule/talks/observing-your-applications-with-sentry-and-prometheus/">Patrick Mühlbauer</a></strong></p>
+<p>Patrick's a Software Engineer from Karlsruhe, working in Blue Yonder's Platform team.
+He likes this devops thing and enjoys instrumenting code to collect metrics and create nice
+and shiny Grafana Dashboards. To look at them. For hours.
+He also likes beer. A lot. Let's have some at the Social Event!
 </div></p>
 <h2>Abstract</h2>
-<p><em>Tags:</em> infrasturcture business devops</p>
-<p>What you do in Ansible should be clean an simple. What we did was not.
-So I will show what we did wrong but also what we have changed or still have to, to make our life easier again. But I will also show how we progressively utilize Ansible to deploy our Data Science infrastructure.</p>
+<p><em>Tags:</em> web monitoring observability</p>
+<p>If you have services running in production, something will fail sooner or later.
+We cannot avoid this completely, but we can prepare for it.
+In this talk we will have a look at how Sentry and Prometheus can help to get
+better insight into our systems to quickly track down the cause of failure.</p>
 <h2>Description</h2>
-<p>Ansible should help you to orchestrate your systems, automate the deployments and set up well defined infrastructures. But if you want to make something work quickly in Ansible the chances are high that you fall back to shell/command tasks, the mother of all evil. Those tasks usually prevent you from running dry runs where you would see the upcoming changes and you prevent Ansible to shine. So, we went blindly into every deployment and hoped the best. But we wanted to see what would change, we wanted to make ansible --check work again and therefore in this talk I will show you what we did wrong and what we changed to get there.</p>
-<p>More precisely, I will show what you can do to replace the nasty shell tasks with proper modules, plugins and filters, how they are developed, tested and included in your project.</p>
+<p>When your services start to behave in a strange way, for example due to bugs
+introduced in the newly deployed release, you want get informed about that
+as fast as possible. Preferably by your own monitoring and not by one of your
+customers.
+We will have a look at how Sentry and Prometheus can help with that.</p>
+<p><a href="https://sentry.io">Sentry</a> is a real-time error tracking system, which can
+notify you when exceptions in your application occur. Additionally, it provides
+lots of context so that crashes can be reproduced and fixed very quickly.</p>
+<p><a href="https://prometheus.io">Prometheus</a> is a systems and service monitoring system,
+collecting metrics from all kinds of targets. The collected metrics can help
+to get insight in what's actually going on in your services.</p>
+<p>Rough outline for the talk:</p>
+<ul>
+<li>What's observability and why should I care?</li>
+<li>Erros and Exceptions in Python</li>
+<li>How to track errors with Sentry</li>
+<li>Introduction to Metrics and Prometheus</li>
+<li>Instrumenting Python applications</li>
+<li>Summary</li>
+</ul>
 
             </div>
         </div>
