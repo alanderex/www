@@ -18,15 +18,13 @@
         "slug": "lift-your-speed-limits-with-cython"
     },
     "FLOOR_1_1": {
-        "speaker": "Kajal Puri",
+        "speaker": "Christian Staudt",
         "tags": [
             "PyData",
-            "Data Science",
-            "Web",
-            "Programming"
+            "Data Science"
         ],
-        "title": "Build text classification models ( CBOW and Skip-gram) with FastText in python",
-        "slug": "build-text-classification-models-cbow-and-skip-gram-with-fasttext-in-python"
+        "title": "The Python Ecosystem for Data Science: A Guided Tour",
+        "slug": "the-python-ecosystem-for-data-science-a-guided-tour"
     },
     "THEATRE_1_2": {
         "speaker": "Tamara Mendt",
@@ -86,14 +84,13 @@
         "slug": "synthetic-data-for-machine-learning-applications"
     },
     "THEATRE_1_4": {
-        "speaker": "Samuel Mu\u00f1oz Hidalgo | BEEVA",
+        "speaker": "Uwe L. Korn",
         "tags": [
             "PyData",
-            "Data Science",
-            "Programming"
+            "Data Science"
         ],
-        "title": "The eye of the Python, an eye tracking system. From zero to... what eye learned.",
-        "slug": "the-eye-of-the-python-an-eye-tracking-system-from-zero-to-what-eye-learned"
+        "title": "Connecting PyData to other Big Data Landscapes using Arrow and Parquet",
+        "slug": "connecting-pydata-to-other-big-data-landscapes-using-arrow-and-parquet"
     },
     "LECTURE_1_4": {
         "speaker": "Raphael Michel",
@@ -192,13 +189,14 @@
         "slug": "programming-the-web-of-things-with-python-and-micropython"
     },
     "FLOOR_2_1": {
-        "speaker": "Uwe L. Korn",
+        "speaker": "Samuel Mu\u00f1oz Hidalgo | BEEVA",
         "tags": [
             "PyData",
-            "Data Science"
+            "Data Science",
+            "Programming"
         ],
-        "title": "Connecting PyData to other Big Data Landscapes using Arrow and Parquet",
-        "slug": "connecting-pydata-to-other-big-data-landscapes-using-arrow-and-parquet"
+        "title": "The eye of the Python, an eye tracking system. From zero to... what eye learned.",
+        "slug": "the-eye-of-the-python-an-eye-tracking-system-from-zero-to-what-eye-learned"
     },
     "THEATRE_2_2": {
         "speaker": "Yves Hilpisch",
@@ -318,10 +316,11 @@
         "speaker": "Alexander Hendorf",
         "tags": [
             "PyData",
-            "Data Science"
+            "Data Science",
+            "Business Analytics"
         ],
-        "title": "Learnings from 117 years of MIT Technology Review",
-        "slug": "learnings-from-117-years-of-mit-technology-review"
+        "title": "Effective Data Analysis with Pandas Indexes",
+        "slug": "effective-data-analysis-with-pandas-indexes"
     },
     "LECTURE_2_6": {
         "speaker": "Eberhard Hansis",
@@ -416,12 +415,13 @@
         "slug": "python-with-apache-openwhisk"
     },
     "FLOOR_3_2": {
-        "speaker": "Niklas Meinzer",
+        "speaker": "Patrick M\u00fchlbauer",
         "tags": [
-            "Testing"
+            "Web",
+            "DevOps"
         ],
-        "title": "Testing in Python - The Big Picture",
-        "slug": "testing-in-python-the-big-picture"
+        "title": "Observing your applications with Sentry and Prometheus",
+        "slug": "observing-your-applications-with-sentry-and-prometheus"
     },
     "THEATRE_3_3": {
         "speaker": "Ami Tavory",

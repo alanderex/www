@@ -9,15 +9,16 @@
 <html lang="en" class="no-js"> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>PyCon.DE 2017 No Compromise: Use Ansible properly or stick to your scripts</title>
+    <title>PyCon.DE 2017 Verified fakes with OpenAPI</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="description" content="PyCon.DE 2017 Karlsruhe - is the traditional meeting point for people who work and play with Python. Hosted in Germany and held in the English language, the conference welcomes Python professionals and enthusiasts from Central Europe and around the world.">
     <meta name="author" content="PyCon.DE">
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@pyconde" />
-<meta name="twitter:title" content="Bjoern Meier: No Compromise: Use Ansible properly or stick to your scripts" />
-<meta name="twitter:description" content="What you do in Ansible should be clean an simple. What we did was not.
-So I will show what we did wrong but also what we have changed or still have to, to make our life easier again. But I will also show how we progressively utilize Ansible to deploy our Data Science infrastructure." />
+<meta name="twitter:title" content="Lauris Jullien: Verified fakes with OpenAPI" />
+<meta name="twitter:description" content="It can be hard to test code that depends on external services. Often such services are mocked, but with time, it can be challenging to keep these mocks up to date.
+Verified fakes can solve this problem, and we will see how to set them up using OpenAPI and python.
+" />
 <meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
     <!-- Styles -->
     <link href="../../../assets/css/bootstrap.css?h=bc7d127a" rel="stylesheet">
@@ -109,22 +110,28 @@ So I will show what we did wrong but also what we have changed or still have to,
             <div class="section-content">
             <!-- place this where you want the widget to appear -->
             <div class="row blog-content">
-                <h1>No Compromise: Use Ansible properly or stick to your scripts</h1>
+                <h1>Verified fakes with OpenAPI</h1>
 <p><div class="avatar">
-<img src="https://secure.gravatar.com/avatar/e6c1124e9554d1081b2ac34172563d51?s=500" alt="">
-<strong><a href="../../../schedule/talks/no-compromise-use-ansible-properly-or-stick-to-your-scripts/">Bjoern Meier</a></strong></p>
-<p>Bjoern is a software engineer at Blue Yonder GmbH since 2016 after graduating in Computer Science.
-More correctly you could say he is a DevOps engineer at Blue Yonder where he is developing and operating - among other things - the services for the external data interfaces, preprocessing and data storage to enable the data scientists to run their prediction models.
-He loves the versatility and ecosystem of python to write e.g. production web apps, data analysis tools or operational scripts.
-If there was more free time he would like to spent it to dive deeper into functional programming languages like elixir to have a different view on things.
-</div></p>
+<img src="https://secure.gravatar.com/avatar/98c54101726681b5422833368953de2e?s=500" alt="">
+<strong><a href="../../../schedule/talks/verified-fakes-with-openapi/">Lauris Jullien</a></strong> (<a href="http://twitter.com/herrbot_DE">@herrbot_DE</a>)</p>
+<p>I am a backend engineer @Yelp in Hamburg for 3 years. Before that I was working with robots @Aldebaran Robotics. And before that I was doing my own startup :)
+I like clean APIs, all you can do with data, and as a good French, wine.</p>
+<p></div></p>
 <h2>Abstract</h2>
-<p><em>Tags:</em> infrasturcture business devops</p>
-<p>What you do in Ansible should be clean an simple. What we did was not.
-So I will show what we did wrong but also what we have changed or still have to, to make our life easier again. But I will also show how we progressively utilize Ansible to deploy our Data Science infrastructure.</p>
+<p><em>Tags:</em> use-case python web</p>
+<p>It can be hard to test code that depends on external services. Often such services are mocked, but with time, it can be challenging to keep these mocks up to date.
+Verified fakes can solve this problem, and we will see how to set them up using OpenAPI and python.</p>
 <h2>Description</h2>
-<p>Ansible should help you to orchestrate your systems, automate the deployments and set up well defined infrastructures. But if you want to make something work quickly in Ansible the chances are high that you fall back to shell/command tasks, the mother of all evil. Those tasks usually prevent you from running dry runs where you would see the upcoming changes and you prevent Ansible to shine. So, we went blindly into every deployment and hoped the best. But we wanted to see what would change, we wanted to make ansible --check work again and therefore in this talk I will show you what we did wrong and what we changed to get there.</p>
-<p>More precisely, I will show what you can do to replace the nasty shell tasks with proper modules, plugins and filters, how they are developed, tested and included in your project.</p>
+<p>When your code depends on an external (third-party) service, testing it can be challenging. It may be expensive, slow or unreliable to call that service in tests. A classic approach is to mock such service or its network calls. But then the challenge becomes keeping the mocks up to date with the third-party services. Using verified fakes allows us to replace a service while guaranteeing that it stays up to date. This can be achieved in different ways: using recent network recordings (e.g. <a href="https://github.com/kevin1024/vcrpy">vcrpy</a>), running a test suite against the mock and the real service to compare the results, or relying on an API contract like OpenAPI, or avro.</p>
+<p><a href="https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md">OpenAPI</a>* is a specification that documents how a service API works and enforces it by validating requests and responses for the service. We can then check the mocks against the OpenAPI specification to make sure they are up to date.</p>
+<p>In this talk, I will explain how to set up such verified fakes with OpenAPI, and present a new open-source library, pyramid_mock_server. Here are the 3 main focuses:</p>
+<ol>
+<li>Quick introduction on OpenAPI and how to use it with bravado, the python OpenAPI client</li>
+<li>How to set up Verified Fakes: using pyramid_mock_server</li>
+<li>Usage @Yelp: usage of fakes and OpenAPI for unit tests, acceptance tests, and documentation</li>
+</ol>
+<p>The talk focuses on OpenAPI, but the learnings and methodology can be extended to any other API specification languages (or python web frameworks).</p>
+<p>* The OpenAPI initiative is a cross-vendor consortium focused on creating, evolving and promoting a vendor neutral description format for APIs. As an open governance structure under the Linux Foundation, its members include Google, IBM, Atlassian and PayPal.</p>
 
             </div>
         </div>
