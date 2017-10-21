@@ -23,7 +23,7 @@ body:
             </div>
             <div class="section-content">
                 <div class="blog-post">
-                <h2 id="matthew-rocklin">Matthew Rocklin</h2>
+                <h2 id="matthew-rocklin">Matthew Rocklin: Dask: Next Steps in Parallel Python</h2>
                 <div class="avatar">
                 <img src="../../../files/matthew-rocklin.jpg" style="max-width: 150px; max-height: 150px;" alt="Matthew Rocklin" />
                 <p>
