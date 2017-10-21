@@ -2,6 +2,14 @@ _model: page
 ---
 title: Keynote Prof. Dr. Michael Feindt
 ---
+head_extra:
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@pyconde" />
+<meta name="twitter:title" content="PyConDE 2017 Keynote: Prof. Dr. Michael Feindt" />
+<meta name="twitter:description" content="Prof. Dr. Michael Feindt is the brain behind Blue Yonder GmbH. His NeuroBayes algorithm was developed during his many years of scientific research at CERN. Michael is also a professor at the Karlsruhe Institute of Technology (KIT)." />
+<meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
+---
 body:
 
 <!-- MAIN CONTENT -->
@@ -17,17 +25,15 @@ body:
                 <div class="blog-post">
                 <div class="blog-post">
                     <h2 id="michael-feindt">Prof. Dr. Michael Feindt </h2>
+                <div class="avatar">
 
-                <img src="../../../files/michael_feindt.jpg" alt="Michael Feindt" width="200px"/>
+                <img src="../../../files/michael_feindt.jpg" style="max-width: 150px; max-height: 150px;" alt="Michael Feindt"/>
                 <p>
-Prof. Dr. Michael Feindt is the brain behind Blue Yonder. His NeuroBayes algorithm was developed during his many years of scientific research at CERN. Michael is also a professor at the Karlsruhe Institute of Technology (KIT), Germany, and a lecturer at the Data Science Academy.
+Prof. Dr. Michael Feindt is the brain behind  <a href="https://www.blue-yonder.com">Blue Yonder GmbH</a>
+. His NeuroBayes algorithm was developed during his many years of scientific research at CERN. Michael is also a professor at the Karlsruhe Institute of Technology (KIT), Germany, and a lecturer at the Data Science Academy.
 
                 </p>
-                <ul style="margin-left:20px">
-                    <li>
-                                    <a href="https://www.blue-yonder.com">Blue Yonder GmbH</a>
-                    </li>
-                </ul>
+            </div>
                 <h3>Artificial Intelligence:  Differentiating Hype and Real Value</h3>
                  <p>
                     Starting from the evolution of biological and artificial life and intelligence 
