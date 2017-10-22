@@ -36,6 +36,12 @@ Furthermore, they can help to inspect a foreign code base at run time by program
 Politics,Maths,Biology,CS,Finance all of these subjects have one thing in common. They can be modelled using networks. NetworkX is a software package for the creation,study of the structure,dynamics,and functions of complex networks.We'll go through the NetworkX API and the basics of graph theory. 
 
 
+# [Playing with Google ML APIs and websockets](./playing-with-google-ml-apis-and-websockets/)
+**Meili Triantafyllidi**
+
+SWe will first talk about Google Machine Learning APIs (translate, vision, etc) and how to integrate with them. Afterwards we will talk about websockets and Tornado. Then we will have a hands on session where we will integrate a real time websocket application with translation API
+
+
 # [Practical Data Cleaning 101](./practical-data-cleaning-101/)
 **Katharine Jarmul**
 

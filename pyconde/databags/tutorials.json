@@ -44,16 +44,7 @@
         "title": "How to Fund Your Company",
         "slug": "how-to-fund-your-company"
     },
-    "MUSEUM_2_3": {
-        "speaker": "Meili Triantafyllidi",
-        "tags": [
-            "PyData",
-            "Data Science",
-            "Web"
-        ],
-        "title": "Playing with Google ML APIs and websockets",
-        "slug": "playing-with-google-ml-apis-and-websockets"
-    },
+    "MUSEUM_2_3": {},
     "MUSEUM_3_1": {
         "speaker": "Mike M\u00fcller",
         "tags": [],
