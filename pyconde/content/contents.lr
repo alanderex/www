@@ -95,11 +95,14 @@ body:
         clientId: '13f70f9f67bb43c38dccfbbf3810caae',
         accessToken: '6239881609.13f70f9.12ff5cb6f3974ca4956c29b964828a69',
         resolution: 'low_resolution',
-        limit: 6
+        limit: 9
     });
     feed.run();
 </script>
-<div id="instafeed"></div>
+            <hr/>
+            <center>
+            <div id="instafeed"></div>
+            </center>
            </div>
         </div>
 
