@@ -39,7 +39,11 @@ Politics,Maths,Biology,CS,Finance all of these subjects have one thing in common
 # [Playing with Google ML APIs and websockets](./playing-with-google-ml-apis-and-websockets/)
 **Meili Triantafyllidi**
 
-SWe will first talk about Google Machine Learning APIs (translate, vision, etc) and how to integrate with them. Afterwards we will talk about websockets and Tornado. Then we will have a hands on session where we will integrate a real time websocket application with translation API
+We will first talk about Google Machine Learning APIs (translate, vision, etc) and how to integrate with them. Afterwards we will talk about websockets and Tornado. Then we will have a hands on session where we will integrate a real time websocket application with translation API to build a multilingual chat application, that would solve the Tower of Babel problem.
+
+Requirements:
+Python 3.5+, 
+know how to install requirements.
 
 
 # [Practical Data Cleaning 101](./practical-data-cleaning-101/)
