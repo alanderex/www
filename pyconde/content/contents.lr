@@ -47,7 +47,7 @@ body:
         </div>
         <div class="row">
             <div class="col-lg-6">
-           <p> We expect up to 300 participants for PyCon.DE 2017 Karlsruhe.
+           <p> We expect 370 participants for PyCon.DE 2017 Karlsruhe.
            The conference will last 3 days and include about 54 talks, tutorials
            and hands on sessions.
            Python is a programming language which has found application and
@@ -63,8 +63,6 @@ body:
                <li>Academic Scientist</li>
                <li>Technology Enthusiast</li>
            </ul>
-        </div>
-        <div class="col-lg-6">
            <p>PyCon.DE 2017 will be held at the <a href="./venue/">Center for Art and
                Media</a> in Karlsruhe. Karlsruhe as a city and a decisive IT region
             in the south-west of Germany and the ZKM as a venue represent a
@@ -78,16 +76,37 @@ body:
             into the <a href="https://www.cyberforum.de">cyberforum</a> IT company network and is part of a "software cluster"
             recognized and sponsored by the federal government.</p>
             </p>
+               <a href="http://pydata.org"><img src="files/pydata-logo.png" class="logo"></a>
+            <p>The conference will include a <a href="http://pydata.org">PyData</a> track:</p>
+                <blockquote>PyData brings together both users and developers of data analysis tools to share ideas and learn from each other. The goals are to provide data science enthusiasts, across various domains, a place to discuss how best to apply languages and tools to the challenges of data management, processing, analytics, and visualization. </blockquote>
         </div>
+        <div class="col-lg-6">
+            <a class="twitter-timeline" data-height="1000" href="https://twitter.com/PyConDE?ref_src=twsrc%5Etfw">Tweets by PyConDE</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+
+        </div>
+
+        <div class="section-heading">
+            <h2><a href="https://www.instagram.com/pycon.de/">Instagram Feed</a></h2>
         </div>
         <div class="row">
-            <div class="col-lg-10">
-                    <p>The conference will include a <a href="http://pydata.org">PyData</a> track:</p>
-                <blockquote>PyData brings together both users and developers of data analysis tools to share ideas and learn from each other. The goals are to provide data science enthusiasts, across various domains, a place to discuss how best to apply languages and tools to the challenges of data management, processing, analytics, and visualization. </blockquote>
-            </div>
-            <div class="col-md-2">
-               <a href="http://pydata.org"><img src="files/pydata-logo.png" class="logo"></a>
-            </div>
+           <div class="col-lg-12">
+               <script type="text/javascript" src="assets/js//instafeed.min.js"></script>
+               <script type="text/javascript">
+    var feed = new Instafeed({
+        get: 'user',
+        userId: '6239881609',
+        clientId: '13f70f9f67bb43c38dccfbbf3810caae',
+        accessToken: '6239881609.13f70f9.12ff5cb6f3974ca4956c29b964828a69',
+        resolution: 'low_resolution',
+        limit: 9
+    });
+    feed.run();
+</script>
+            <center>
+            <div id="instafeed"></div>
+            </center>
+           </div>
         </div>
 
             <hr/>

@@ -197,12 +197,6 @@ better insight into our systems to quickly track down the cause of failure.
 shop.rewe.de is not only visited by human customers, but also by machines. We have built a deep learning platform using python with Keras, Tensorflow, on the Google infrastructure. In this talk we would like to show you how python is used in practice, supporting 2,5 million visitors each day.
 
 
-# [Playing with Google ML APIs and websockets](./playing-with-google-ml-apis-and-websockets/)
-**Meili Triantafyllidi**
-
-SWe will first talk about Google Machine Learning APIs (translate, vision, etc) and how to integrate with them. Afterwards we will talk about websockets and Tornado. Then we will have a hands on session where we will integrate a real time websocket application with translation API
-
-
 # [Plugin ecosystems for Python web-applications](./plugin-ecosystems-for-python-web-applications/)
 **Raphael Michel**
 
