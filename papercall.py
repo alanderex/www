@@ -122,7 +122,6 @@ tutorials = ['practical-data-cleaning-101',
              'metaclasses-when-to-use-and-when-not-to-use',
              'network-analysis-using-python',
              'topic-modelling-and-a-lot-more-with-nlp-framework-gensim',
-             'python-on-bare-metal-beginners-tutorial-with-micropython-on-the-pyboard',
              'how-to-fund-your-company',
              'playing-with-google-ml-apis-and-websockets',
              ]
