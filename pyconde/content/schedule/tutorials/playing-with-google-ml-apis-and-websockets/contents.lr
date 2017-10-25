@@ -41,3 +41,7 @@ We will first talk about Google Machine Learning APIs (translate, vision, etc) a
 Requirements:
 - Python 3.5+, 
 - know how to install requirements.
+
+Before the session:
+- Clone the repo and install the requirements.txt (follow the instructions in the beginning
+https://github.com/mei-li/multiling-chat
