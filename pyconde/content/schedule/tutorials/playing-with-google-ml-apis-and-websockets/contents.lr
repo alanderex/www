@@ -7,7 +7,11 @@ head_extra:
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@pyconde" />
 <meta name="twitter:title" content="Meili Triantafyllidi: Playing with Google ML APIs and websockets" />
-<meta name="twitter:description" content="SWe will first talk about Google Machine Learning APIs (translate, vision, etc) and how to integrate with them. Afterwards we will talk about websockets and Tornado. Then we will have a hands on session where we will integrate a real time websocket application with translation API" />
+<meta name="twitter:description" content="We will first talk about Google Machine Learning APIs (translate, vision, etc) and how to integrate with them. Afterwards we will talk about websockets and Tornado. Then we will have a hands on session where we will integrate a real time websocket application with translation API to build a multilingual chat application, that would solve the Tower of Babel problem.
+
+Requirements:
+- Python 3.5+, 
+- know how to install requirements." />
 <meta name="twitter:image" content="https://de.pycon.org/files/logo.png" />
 ---
 body:
@@ -24,8 +28,16 @@ Python web dev, PyLadies Berlin organiser that recently attended a websockets ta
 
 *Tags:* Web
 
-SWe will first talk about Google Machine Learning APIs (translate, vision, etc) and how to integrate with them. Afterwards we will talk about websockets and Tornado. Then we will have a hands on session where we will integrate a real time websocket application with translation API
+We will first talk about Google Machine Learning APIs (translate, vision, etc) and how to integrate with them. Afterwards we will talk about websockets and Tornado. Then we will have a hands on session where we will integrate a real time websocket application with translation API to build a multilingual chat application, that would solve the Tower of Babel problem.
+
+Requirements:
+- Python 3.5+, 
+- know how to install requirements.
 
 
 ## Description
-We will first talk about Google Machine Learning APIs (translate, vision, etc) and how to integrate with them. Afterwards we will talk about websockets and Tornado. Then we will have a hands on session where we will integrate a real time websocket application with translation API
+We will first talk about Google Machine Learning APIs (translate, vision, etc) and how to integrate with them. Afterwards we will talk about websockets and Tornado. Then we will have a hands on session where we will integrate a real time websocket application with translation API to build a multilingual chat application, that would solve the Tower of Babel problem.
+
+Requirements:
+- Python 3.5+, 
+- know how to install requirements.
