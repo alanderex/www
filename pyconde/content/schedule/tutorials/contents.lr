@@ -45,15 +45,8 @@ Requirements:
 - Python 3.5+, 
 - know how to install requirements.
 
-
 # [Practical Data Cleaning 101](./practical-data-cleaning-101/)
 **Katharine Jarmul**
 
 Sick of complaining about data wrangling? Unsure what libraries to even begin with? In this tutorial, we'll highlight some practical examples of data cleaning, using tools to dedupe records, perform string matching and preprocess data for machine learning. 
-
-
-# [Python on bare metal – Beginners tutorial with MicroPython on the pyboard](./python-on-bare-metal-beginners-tutorial-with-micropython-on-the-pyboard/)
-**Christine Spindler**
-
-MicroPython is a complete reimplementation of Python that runs on small devices like microcontrollers. In this hands-on workshop I'll show how easy it is to use MicroPython on a pyboard.
 

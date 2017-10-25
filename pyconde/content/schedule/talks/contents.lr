@@ -236,6 +236,12 @@ Is `++4;` valid Python? And what does it do? Let me give you an introduction int
 
 
 
+# [Python on bare metal – Beginners tutorial with MicroPython on the pyboard](./python-on-bare-metal-beginners-tutorial-with-micropython-on-the-pyboard/)
+**Christine Spindler**
+
+MicroPython is a complete reimplementation of Python that runs on small devices like microcontrollers. In this hands-on workshop I'll show how easy it is to use MicroPython on a pyboard.
+
+
 # [Python with Apache OpenWhisk](./python-with-apache-openwhisk/)
 **Ansgar Schmidt**
 
