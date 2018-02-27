@@ -15,6 +15,12 @@
             <div class="row blog-content">
                 {{ this.body }}
             </div>
+            {% if this.video %}
+            <div class="row">
+                <iframe width="840" height="630" src="https://www.youtube.com/embed/{{this.video}}">
+            </iframe> 
+            </div>
+            {% endif %}
         </div>
     </div>
 </div>

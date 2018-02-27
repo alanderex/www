@@ -1,6 +1,8 @@
 _model: page
 title: Keynote Prof. Dr. Susanne Mertens
 ---
+video: 3h-6GBBF4Hg
+---
 head_extra:
 
 <meta name="twitter:card" content="summary" />
@@ -50,6 +52,9 @@ body:
                     <a href="https://www.mpp.mpg.de/forschung/astroteilchenphysik-und-kosmologie/katrin-und-tristan-neutrinos-und-dunkle-materie/">KATRIN and TRISTAN: Neutrinos and Dark Matter</a>
                     </li>
                 </ul>
+                <iframe width="840" height="630"
+                src="https://www.youtube.com/embed/3h-6GBBF4Hg">
+                </iframe>
 			    </div>
 			</div>
 	    </div>

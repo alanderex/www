@@ -2,6 +2,8 @@ _model: page
 ---
 title: Keynote Prof. Dr. Michael Feindt
 ---
+video: Ndi4hqSdBi4
+---
 head_extra:
 
 <meta name="twitter:card" content="summary" />
@@ -51,6 +53,9 @@ Prof. Dr. Michael Feindt is the brain behind  <a href="https://www.blue-yonder.c
                     discrimination-free algorithms are given, before concluding on how we should 
                     face the challenges but especially the chances of AI to create a better world. 
                 </p>
+
+    <iframe width="840" height="630" src="https://www.youtube.com/embed/Ndi4hqSdBi4">
+    </iframe>
 			    </div>
 			</div>
 	    </div>

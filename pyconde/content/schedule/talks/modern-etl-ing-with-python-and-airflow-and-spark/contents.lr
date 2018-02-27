@@ -2,6 +2,8 @@ _model: page_markdown
 ---
 title: Modern ETL-ing with Python and Airflow (and Spark)
 ---
+video: tcJhSaowzUI
+---
 head_extra:
 
 <meta name="twitter:card" content="summary" />
