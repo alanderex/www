@@ -22,7 +22,7 @@ body:
                  <a href="https://twitter.com/sebineubauer" data-toggle="tooltip" data-placement="left"
                      title="Sebastian Neubaruer"><i class="fa fa-twitter"></i></a>
               </div>
-              <h3>Co-Organizer, Venue</h3>
+              <h3>Co-Organizer</h3>
               <p>
               Senior Data Scientist, Blue Yonder GmbH</p>
             </div>
@@ -57,13 +57,13 @@ body:
               <p>Chairman, Python Software Verband e.V.</p>
           </div>
           <div class="col-md-4 profile">
-              <h2>Katharine Jarmul</h2>
+              <h2>Christian Barra</h2>
               <div class="twitter-icon">
-                 <a href="https://twitter.com/kjam" data-toggle="tooltip" data-placement="left"
-                     title="Katharine Jarmul"><i class="fa fa-twitter"></i></a>
+                 <a href="https://twitter.com/barrachri" data-toggle="tooltip" data-placement="left"
+                     title="Christian Barra"><i class="fa fa-twitter"></i></a>
               </div>
-              <h3>PyData</h3>
-              <p>Founder kjamistan, Author of O'Reilly book "Data Wrangling with Python" </p>
+              <h3>Orga</h3>
+              <p>Full Data Alchemist. EuroPython Organizer/Board Member </p>
           </div>
           <div class="col-md-4 profile">
               <h2>Jan Karstens</h2>
@@ -79,11 +79,11 @@ body:
           <div class="col-md-4 profile">
               <h2>Anna Zinßer</h2>
               <div class="twitter-icon">
-                 <a href="https://twitter.com/" data-toggle="tooltip" data-placement="left"
+                 <a href="http://ungleich-anders.de" data-toggle="tooltip" data-placement="left"
                      title="Anna Zinßer"><i class="fa fa-twitter"></i></a>
               </div>
               <h3>Media</h3>
-              <p>User Experience Engineer</p>
+              <p>UX Designerin ungleich-anders</p>
           </div>
           <div class="col-md-4 profile">
               <h2>Miroslav Šedivý</h2>
@@ -91,9 +91,19 @@ body:
                  <a href="https://twitter.com/eumiro" data-toggle="tooltip" data-placement="left"
                      title="Miroslav Šedivý"><i class="fa fa-twitter"></i></a>
               </div>
-              <h3>Code of Conduct</h3>
-              <p>Software Architect, EWC Weather Consult GmbH</p>
+              <h3>Code of Conduct, Social Event</h3>
+              <p>Senior Software Architect, UBIMET GmbH</p>
           </div>
+           <div class="col-md-4 profile">
+              <h2>Katharine Jarmul</h2>
+               <div class="twitter-icon">
+                 <a href="https://twitter.com/kjam" data-toggle="tooltip" data-placement="left"
+                     title="Katharine Jarmul"><i class="fa fa-twitter"></i></a>
+               </div>
+              <h3>PyData</h3>
+              <p>Founder kjamistan, Author of O'Reilly book "Data Wrangling with Python" </p>
+           </div>
+        <div class="row">
           <div class="col-md-4 profile">
               <h2>Martin Stamenov</h2>
               <div class="twitter-icon">
@@ -102,7 +112,8 @@ body:
               </div>
               <h3>Sprints</h3>
               <p>Student KIT</p>
-          </div>
+              </div>
+           </div>
           </div>
         </div>
         </div>

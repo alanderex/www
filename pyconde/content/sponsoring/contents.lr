@@ -24,52 +24,10 @@ body:
             enthusiasts at the conference. This conference is an excellent opportunity to present
             your company, organization and products or services to a friendly and interested audience.</p>
 
-            <p>See our <a href="../files/pycon_de_2017_karlsruhe_sponsoring.pdf">Sponsoring Flyer</a> (<a href="../files/pycon_de_2017_karlsruhe_sponsoring_en.pdf">en</a>) for more information. If you are interested please contact
+            <p>See our <a href="../files/pycon_de_2018_karlsruhe_sponsoring_de.pdf">Sponsoring Flyer</a> (<a href="../files/pycon_de_2018_karlsruhe_sponsoring_en.pdf">en</a>) for more information. If you are interested please contact
                 <a href="mailto:info@pycon.de">info@pycon.de </a>.
             </p>
             </div>
-            <div class="row">
-                <div class="col-md-4 sponsor">
-                  <p><a href="http://daimler.com"><img src="../files/daimler-logo.png" alt="daimler" /></a></p>
-                  <h3>Gold Sponsor</h3>
-                </div>
-              <div class="col-md-4 sponsor">
-                  <p><a href="http://sap.de"><img src="../files/sap-logo.svg" alt="sap" /></a></p>
-                  <h3>Gold Sponsor</h3>
-              </div>
-              <div class="col-md-4 sponsor">
-                  <p><a href="http://billiger.de"><img src="../files/billiger-logo.svg" alt="billiger.de" /></a></p>
-                  <h3>Gold Sponsor</h3>
-              </div>
-            </div><!-- END ROW -->
-            <div class="row">
-              <div class="col-md-4 sponsor">
-                  <p><a href="http://rosen-group.com"><img src="../files/rosen-logo.jpg" alt="Rosen Group" /></a></p>
-                  <h3>Gold Sponsor</h3>
-              </div>
-              <div class="col-md-4 sponsor" >
-                  <p><a href="https://www.jetbrains.com"><img src="../files/jetbrains-logo.jpg" alt="jetbrains" /></a></p>
-                  <h3>Development Tools Sponsor</h3>
-              </div>
-                <div class="col-md-4 sponsor">
-                  <p><a href="http://yelp.de"><img src="../files/yelp-logo.png" alt="yelp.de" /></a></p>
-                  <h3>Social Event Sponsor</h3>
-              </div>
-            </div> <!-- END ROW -->
-            <div class="row">
-                <div class="col-md-4 sponsor">
-                  <p><a href="http://ypsilon.net"><img src="../files/ypsilon-net-logo.svg" alt="ypsilon.net" /></a></p>
-                  <h3>Silver Sponsor</h3>
-              </div>
-                <div class="col-md-4 sponsor">
-                  <p><a href="http://inovex.de"><img src="../files/inovex-logo.svg" alt="inovex.net" /></a></p>
-                  <h3>Data Science Meetup Sponsor</h3>
-              </div>
-                <div class="col-md-4 sponsor">
-                  <p><a href="http://www.europython-society.org"><img src="../files/europython-logo.png" alt="europython" /></a></p>
-                  <h3>Diversity Sponsor</h3>
-              </div>
-            </div> <!-- END ROW -->
             <div class="row">
               <div class="col-md-4 sponsor" >
                   <p><a href="http://blue-yonder.com"><img src="../files/blue-yonder-logo.svg" alt="blue yonder" /></a></p>
@@ -86,22 +44,16 @@ body:
             </div> <!-- END ROW -->
             <div class="row">
               <div class="col-md-4 sponsor">
-                  <p><a href="https://www.python.org/psf/"><img src="../files/psf-logo.png" alt="Python Software Foundation" /></a></p>
-                  <h3>Fin Aid Sponsor</h3>
               </div>
               <div class="col-md-4 sponsor">
                   <p><a href="http://karlsruhe.de"><img src="../files/karlsruhe-logo.jpg" alt="Karlsruhe" /></a></p>
                   <h3>Partner</h3>
               </div>
               <div class="col-md-4 sponsor">
-                  <p><a href="http://www.dhbw.de"><img src="../files/dhbw-logo.jpg" alt="Duale Hochschule Baden-Württemberg" /></a></p>
-                  <h3>Sprint Partner</h3>
               </div>
             </div> <!-- END ROW -->
             <div class="row">
               <div class="col-md-4 sponsor">
-                  <p><a href="http://cyberforum.de"><img src="../files/cyberforum-logo.png" alt="cyberforum" /></a></p>
-                  <h3>Media Partner</h3>
               </div>
               <div class="col-md-4 sponsor">
               </div>

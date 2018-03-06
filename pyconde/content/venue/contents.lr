@@ -14,9 +14,19 @@ body:
                 <h2>Conference Venue: ZKM - center for art and media</h2>
             </div>
             <div class="section-content">
+                <div class="row">
                 <p>
                     The ZKM | Center for Art and the Media is a unique cultural institution, extending the original vision and purpose of the museum. It is a home to various art, media and genres -- a house of ragmatized arts, painting, photography and sculpture as well as the time-based arts such as film, video, media art, music, dance, theater and performance. As a museum, the ZKM was founded in 1989 with the mission to continue classical arts in the digital age. Because of this, it's sometimes referred to as the "electronic or digital Bauhaus" - an expression traced back to Heinrich Klotz. The ZKM also accommodates institutes and laboratories for scientific research, development and production. In addition to the museum's classical guiding principle&mdash;to preserve and encourage works of art&mdash;the ZKM also undertakes support measures for the creation of new works of art by supporting guest artists and employee programs. <a href="http://zkm.de/ueber-uns">#</a>
                 </p>
+                </div>
+                <div class="row" style="margin-bottom: 30px">
+                    <div class="col-lg-6">
+                        <img src="../files/pyconde2017.jpg" width="100%">
+                    </div>
+                    <div class="col-lg-6">
+                        <img src="../files/zkm-main-stage.jpg" width="100%">
+                    </div>
+                </div>
             </div>
             <div class="section-heading">
                 <p><a href="http://zkm.de">ZKM - center for art and media</a> Lorenzstraße 19, 76135 Karlsruhe.</p>
@@ -65,7 +75,7 @@ body:
 
                 <h2>Accommodation</h2>
 
-                <p>Coming from another city or even another country and don't know where to stay? The Tourist Information Bureau of Karlsruhe offers an online reservation system for hotels in the neighborhoods of the venue during the PyCon.DE. <b><a href="https://www.karlsruhe-tourismus.de/karlsruhe/ukv/?doSearch=1&ukv_result_order=1&number_adult%5B%5D=1&rate=FIT00020070269301316&date_from=24.10.2017&date_to=28.10.2017&reset=1">Find your accommodation online</a></b></p>
+                <p>Coming from another city or even another country and don't know where to stay? The Tourist Information Bureau of Karlsruhe offers an online reservation system for hotels in the neighborhoods of the venue during the PyCon.DE.</p>
             </div>
             </div>
         </div>
