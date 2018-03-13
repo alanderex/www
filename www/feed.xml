@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">PyCon.DE 2017 &amp; PyData Karlsruhe</title>
   <id>urn:uuid:53af2a09-01da-33dc-9af3-6578c6b0f005</id>
-  <updated>2017-10-23T00:00:00Z</updated>
+  <updated>2018-03-13T08:58:26.194404Z</updated>
   <link href="http://de.pycon.org/" />
   <link href="http://de.pycon.org/feed.xml" rel="self" />
   <author>
@@ -122,6 +122,19 @@ To understand the world that sustains us&lt;/p&gt;
 &lt;p&gt;From the binary code (Leibniz) to Morse code, from cosmic code to the genetic code, we live in a world of codes. This exhibition, a collection of artworks and scientific works gives you the opportunity to get an insight into this world and to better understand it. The exhibition will be a mix of a laboratory and a lounge, a »Club Mediterranée«, and a learning environment.&lt;/p&gt;
 &lt;p&gt;We would like to test new and perhaps unusual education and learning formats with our visitors, and create new approaches to knowledge in a relaxed atmosphere that stimulates learning. Programming, learning with bots and other new technologies should no longer pose a limit to education. Everyone should have the chance to understand what lies behind today’s digital world. Whether with free entry to events, snacks and drinks at the museum or natural work in the museum field – the exhibition will change the approach to museum installations as an educational policy experiment in the area of »Audience Development«. The museum will, in the true sense of the word, be well worth a visit.&lt;/p&gt;
 &lt;p&gt;Artworks and scientific works based on digital as well as on analog codes are presented in the exhibition. The works visualize and explain the complex dynamics of code, and the way in which they are increasingly shaping the way we live and perceive the world.&lt;/p&gt;
+</content>
+  </entry>
+  <entry xml:base="http://de.pycon.org/blog/pyconde-and-pydata-karlsruhe-2018/">
+    <title type="text">PyCon.DE &amp; PyData Karlsruhe 2018</title>
+    <id>urn:uuid:f97f1869-7c71-3c10-a93c-0b956d7cc7c4</id>
+    <updated>2018-03-13T08:58:26.194404Z</updated>
+    <link href="http://de.pycon.org/blog/pyconde-and-pydata-karlsruhe-2018/" />
+    <author>
+      <name>Peter Hoffmann</name>
+    </author>
+    <content type="html">&lt;p&gt;After as successful PyCon.DE 2017 in Karlsruhe the conference PyCon.DE 2018 will be held again at the Center for Art and Media in Karlsruhe. We expect 400 participants. The conference will last 3 days and include about 60 talks, tutorials and hands on sessions.&lt;/p&gt;
+&lt;p&gt;Python is a programming language which has found application and friends in many areas. Due to its popularity in science, Python has experienced a meteoric rise in the data science community over the past few years. At the conference, we expect a broad and interesting mix of Pythonistas. Karlsruhe as a city and a decisive IT region in the south-west of Germany and the ZKM as a venue represent a perfect match for the conference.&lt;/p&gt;
+&lt;p&gt;If you are interested to support the conference see &lt;a href=&quot;https://de.pycon.org/sponsoring/&quot;&gt;https://de.pycon.org/sponsoring/&lt;/a&gt; for sponsoring options.&lt;/p&gt;
 </content>
   </entry>
 </feed>
