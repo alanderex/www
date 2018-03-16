@@ -29,6 +29,18 @@ body:
             </p>
             </div>
             <div class="row">
+              <div class="col-md-4 sponsor">
+                <p><a href="http://daimler.com"><img src="../files/daimler-logo.png" alt="daimler"></a></p>
+                <h3>Gold Sponsor</h3>
+              </div>
+              <div class="col-md-4 sponsor">
+                  <p><a href="http://karlsruhe.de"><img src="../files/karlsruhe-logo.jpg" alt="Karlsruhe" /></a></p>
+                  <h3>Partner</h3>
+              </div>
+              <div class="col-md-4 sponsor">
+              </div>
+            </div> <!-- END ROW -->
+            <div class="row">
               <div class="col-md-4 sponsor" >
                   <p><a href="http://blue-yonder.com"><img src="../files/blue-yonder-logo.svg" alt="blue yonder" /></a></p>
                   <h3>Community Sponsor</h3>
@@ -40,16 +52,6 @@ body:
               <div class="col-md-4 sponsor" >
                   <p><a href="http://www.python-academy.com"><img src="../files/python-academy-logo.svg" alt="python academy" /></a></p>
                   <h3>Community Sponsor</h3>
-              </div>
-            </div> <!-- END ROW -->
-            <div class="row">
-              <div class="col-md-4 sponsor">
-              </div>
-              <div class="col-md-4 sponsor">
-                  <p><a href="http://karlsruhe.de"><img src="../files/karlsruhe-logo.jpg" alt="Karlsruhe" /></a></p>
-                  <h3>Partner</h3>
-              </div>
-              <div class="col-md-4 sponsor">
               </div>
             </div> <!-- END ROW -->
             <div class="row">
