@@ -333,6 +333,10 @@ a:hover, a:focus {
     color: #828282;
 }
 
+.section-heading p{
+    text-align: left;
+}
+
 /* --------------------- */
 /* TOOLTIP
 /* --------------------- */
@@ -8274,6 +8278,7 @@ img.mfp-img {
     color: #fff;
 }
 
+
 /* ------------------ CODE OF CONDUCT------------------ */
 .conduct {
     text-align: left;
@@ -8581,4 +8586,8 @@ img.mfp-img {
     border-radius: 50%;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
+}
+
+.bigpic{
+    max-width: 70%;
 }
